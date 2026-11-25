@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/desolate-city-2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1017",
+        "foreground": "#dee0e3",
+        "cursor": "#dee0e3"
+    },
+    "colors": {
+        "color0": "#0f1017",
+        "color1": "#63677B",
+        "color2": "#6F7488",
+        "color3": "#7D8397",
+        "color4": "#9299AB",
+        "color5": "#A4B0CB",
+        "color6": "#BCCAD5",
+        "color7": "#dee0e3",
+        "color8": "#9b9c9e",
+        "color9": "#63677B",
+        "color10": "#6F7488",
+        "color11": "#7D8397",
+        "color12": "#9299AB",
+        "color13": "#A4B0CB",
+        "color14": "#BCCAD5",
+        "color15": "#dee0e3"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/flowers-15.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0e16",
+        "foreground": "#dedfe3",
+        "cursor": "#dedfe3"
+    },
+    "colors": {
+        "color0": "#0d0e16",
+        "color1": "#707589",
+        "color2": "#807D90",
+        "color3": "#7D8298",
+        "color4": "#9094AD",
+        "color5": "#AFB2CD",
+        "color6": "#BCC3D7",
+        "color7": "#dedfe3",
+        "color8": "#9b9c9e",
+        "color9": "#707589",
+        "color10": "#807D90",
+        "color11": "#7D8298",
+        "color12": "#9094AD",
+        "color13": "#AFB2CD",
+        "color14": "#BCC3D7",
+        "color15": "#dedfe3"
+    }
+}

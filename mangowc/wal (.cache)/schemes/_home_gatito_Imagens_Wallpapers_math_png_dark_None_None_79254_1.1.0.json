@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/math.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1b25",
+        "foreground": "#ddd7d5",
+        "cursor": "#ddd7d5"
+    },
+    "colors": {
+        "color0": "#1a1b25",
+        "color1": "#797684",
+        "color2": "#837C8B",
+        "color3": "#8F8B94",
+        "color4": "#A59C9F",
+        "color5": "#B0ABB0",
+        "color6": "#C6B6AE",
+        "color7": "#ddd7d5",
+        "color8": "#9a9695",
+        "color9": "#797684",
+        "color10": "#837C8B",
+        "color11": "#8F8B94",
+        "color12": "#A59C9F",
+        "color13": "#B0ABB0",
+        "color14": "#C6B6AE",
+        "color15": "#ddd7d5"
+    }
+}

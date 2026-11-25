@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/greenbus.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0c13",
+        "foreground": "#dee1cf",
+        "cursor": "#dee1cf"
+    },
+    "colors": {
+        "color0": "#0b0c13",
+        "color1": "#626778",
+        "color2": "#717589",
+        "color3": "#7F8081",
+        "color4": "#7C8393",
+        "color5": "#989FA6",
+        "color6": "#B6CBB2",
+        "color7": "#dee1cf",
+        "color8": "#9b9d90",
+        "color9": "#626778",
+        "color10": "#717589",
+        "color11": "#7F8081",
+        "color12": "#7C8393",
+        "color13": "#989FA6",
+        "color14": "#B6CBB2",
+        "color15": "#dee1cf"
+    }
+}

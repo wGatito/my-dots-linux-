@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/a_computer_room_with_a_desk_and_a_computer_monitor.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f0f",
+        "foreground": "#d7bdb7",
+        "cursor": "#d7bdb7"
+    },
+    "colors": {
+        "color0": "#0f0f0f",
+        "color1": "#544750",
+        "color2": "#695860",
+        "color3": "#9A686D",
+        "color4": "#C97678",
+        "color5": "#70A770",
+        "color6": "#746D94",
+        "color7": "#d7bdb7",
+        "color8": "#968480",
+        "color9": "#544750",
+        "color10": "#695860",
+        "color11": "#9A686D",
+        "color12": "#C97678",
+        "color13": "#70A770",
+        "color14": "#746D94",
+        "color15": "#d7bdb7"
+    }
+}

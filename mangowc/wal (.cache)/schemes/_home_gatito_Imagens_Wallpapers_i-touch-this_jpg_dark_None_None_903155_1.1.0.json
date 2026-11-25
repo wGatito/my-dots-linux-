@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/i-touch-this.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161820",
+        "foreground": "#dde3d2",
+        "cursor": "#dde3d2"
+    },
+    "colors": {
+        "color0": "#161820",
+        "color1": "#788180",
+        "color2": "#7D8397",
+        "color3": "#8B95A6",
+        "color4": "#98A8AA",
+        "color5": "#B1D4B0",
+        "color6": "#B9E2B0",
+        "color7": "#dde3d2",
+        "color8": "#9a9e93",
+        "color9": "#788180",
+        "color10": "#7D8397",
+        "color11": "#8B95A6",
+        "color12": "#98A8AA",
+        "color13": "#B1D4B0",
+        "color14": "#B9E2B0",
+        "color15": "#dde3d2"
+    }
+}

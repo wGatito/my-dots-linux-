@@ -1,0 +1,21 @@
+set $wallpaper /home/gatito/Imagens/Wallpapers/cartoon-castle.png
+
+set $background #0f0f18
+set $foreground #e8e2dc
+
+set $color0 #0f0f18
+set $color1 #7E8197
+set $color2 #9C9AAC
+set $color3 #C2B8BD
+set $color4 #D4D2BB
+set $color5 #C1BAC2
+set $color6 #D4D3CC
+set $color7 #e8e2dc
+set $color8 #a29e9a
+set $color9 #7E8197
+set $color10 #9C9AAC
+set $color11 #C2B8BD
+set $color12 #D4D2BB
+set $color13 #C1BAC2
+set $color14 #D4D3CC
+set $color15 #e8e2dc

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/foggy-city.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0c12",
+        "foreground": "#c5bbc5",
+        "cursor": "#c5bbc5"
+    },
+    "colors": {
+        "color0": "#0c0c12",
+        "color1": "#444759",
+        "color2": "#515568",
+        "color3": "#616579",
+        "color4": "#8C717D",
+        "color5": "#727488",
+        "color6": "#847E93",
+        "color7": "#c5bbc5",
+        "color8": "#898289",
+        "color9": "#444759",
+        "color10": "#515568",
+        "color11": "#616579",
+        "color12": "#8C717D",
+        "color13": "#727488",
+        "color14": "#847E93",
+        "color15": "#c5bbc5"
+    }
+}

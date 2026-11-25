@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/retro2_live.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0b12",
+        "foreground": "#dbd2de",
+        "cursor": "#dbd2de"
+    },
+    "colors": {
+        "color0": "#0b0b12",
+        "color1": "#717389",
+        "color2": "#9E7B9A",
+        "color3": "#A08FA8",
+        "color4": "#D398AD",
+        "color5": "#9BAED7",
+        "color6": "#DC9BCD",
+        "color7": "#dbd2de",
+        "color8": "#99939b",
+        "color9": "#717389",
+        "color10": "#9E7B9A",
+        "color11": "#A08FA8",
+        "color12": "#D398AD",
+        "color13": "#9BAED7",
+        "color14": "#DC9BCD",
+        "color15": "#dbd2de"
+    }
+}

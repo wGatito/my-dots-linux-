@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/railroad-2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d15",
+        "foreground": "#eae1d1",
+        "cursor": "#eae1d1"
+    },
+    "colors": {
+        "color0": "#0d0d15",
+        "color1": "#8A737D",
+        "color2": "#5D6881",
+        "color3": "#73758A",
+        "color4": "#8D7B8E",
+        "color5": "#A18D9B",
+        "color6": "#E2A2A4",
+        "color7": "#eae1d1",
+        "color8": "#a39d92",
+        "color9": "#8A737D",
+        "color10": "#5D6881",
+        "color11": "#73758A",
+        "color12": "#8D7B8E",
+        "color13": "#A18D9B",
+        "color14": "#E2A2A4",
+        "color15": "#eae1d1"
+    }
+}

@@ -1,0 +1,381 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 45,
+    "spacing": 5,
+    "margin-top": 10,
+    "margin-left": 10,
+    "margin-right": 10,
+    "reload_style_on_change": true,
+    "modules-left": [
+        "custom/launcher",
+        "custom/layout",
+        "custom/menu",
+        "cava",
+        "mango/workspaces"
+        ],
+    "modules-center": [
+        "clock"
+    ],
+    "modules-right": [
+        "group/tray-drawer",
+        "cpu",
+        "memory",
+        "network#ethernet",
+        "pulseaudio",
+        "wireplumber#microphone",
+        "custom/notificater",
+    ],
+    "custom/launcher": {
+        "format": "<big></big>",
+        "on-click": "rofi -show drun"
+    },
+
+"inhibitor": {
+	"what": "",
+	"format": "{icon}",
+	"format-icons": {
+		"activated": " ",
+		"deactivated": " "
+	}
+},
+
+    "battery": {
+        "states": {
+            "warning": 30,
+            "critical": 15
+        },
+
+    "mango/layout": {
+      "format": "{}",
+        },
+
+        "format": "{icon}   {capacity}%",
+        "format-charging": "{icon} 󱐋 {capacity}%",
+        "format-plugged": "{icon} 󱐋 {capacity}%",
+        "format-full": "{icon} 󱐋 {capacity}%",
+        "format-icons": [
+            " ",
+            " ",
+            " ",
+            " ",
+            " "
+        ]
+    },
+
+"backlight": {
+	"device": "intel_backlight",
+	"format": "{icon} {percent}%",
+	"format-icons": ["", ""]
+},
+
+"ext/workspaces": {
+    "format": "{icon}",
+    "format-icons": {
+        "active": " ",
+        "default": " ",
+        "urgent": " ",
+        "empty": " ",
+        "occupied": " "
+    },
+    "on-click": "activate"
+},
+
+"mango/workspaces": {
+    "on-click": "activate",
+    "format": "{icon}",
+    "format-icons": {
+            "1": "I",
+            "2": "II",
+            "3": "III",
+            "4": "IV",
+            "5": "V",
+            "6": "VI",
+            "7": "VII",
+            "8": "VIII",
+            "9": "IX",
+            "10":"X"
+    },
+     "disable-scroll": "false",
+        "all-outputs": "true",
+        "on-click": "activate",
+	"on-click-right": "toggle",
+        "overview-label": "Overviewing :D",
+   },
+
+"user": {
+	"format": "Hey! {user} ",
+	"interval": 60,
+	"icon": true,
+	"avatar": "/home/alice/.face",
+	"height": 24,
+	"width": 24,
+	"open-on-click": true
+},
+
+"cava": {
+    // "cava_config": "~/.config/cava/config", // Opcional se você quiser herdar configs do CAVA do terminal
+    "framerate": 100,
+    "autosens": 0.1,
+    "sensitivity": 0.1,
+    "bars": 20,
+    "lower_cutoff_freq": 9999,
+    "higher_cutoff_freq": 10000,
+    "method": "pulse", // Ou "pipewire" / "alsa" dependendo do seu gerenciador de áudio
+    "source": "auto",
+    "stereo": true,
+    "reverse": true,
+    "bar_delimiter": 0,
+    "monstercat": true,
+    "waves": true,
+    "noise_reduction": 0.77,
+    "input_delay": 0.1,
+    "format-icons" : [" ", "▂", "▃", "▄", "▅", "▆", "▇", "█" ],
+    "actions": {
+        "on-click-right": "mode"
+    }
+},
+
+"disk": {
+	"interval": 30,
+	"format": "  {specific_used:0.2f} / {free}",
+        "unit": "GB"
+},
+
+"hyprland/window": {
+	"format": "{}",
+	"rewrite": {
+		"(.*) - Mozilla Firefox": "🌎 $1",
+		"(.*) - zsh": "> [$1]"
+	}
+},
+
+"custom/updater": {
+   "format": "",
+      "on-click": "kitty -e eos-update"
+},
+
+"pulseaudio": {
+	"format": "{icon}  {volume}%",
+	"format-bluetooth": "{volume}% {icon}",
+	"format-muted": "󰝟 Muted",
+	"format-icons": {
+		"alsa_output.pci-0000_00_1f.3.analog-stereo": "",
+		"alsa_output.pci-0000_00_1f.3.analog-stereo-muted": "",
+		"headphone": "",
+		"hands-free": "󰂑",
+		"headset": "󰂑",
+		"phone": "",
+		"phone-muted": "",
+		"portable": "",
+		"car": "",
+		"default": ["", ""]
+	},
+	"max-volume": 200,
+        "scroll-step": 5,
+	"on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle"
+},
+
+"network#ethernet": {
+    "interface": "enp*", // Mantém o filtro para cabo de rede
+    "format-ethernet": "󰈁 Connected",
+    "format-disconnected": "󰈂 Disconnected",
+    "tooltip-format": "Interface: {ifname}\nIP: {ipaddr}\nGateway: {gwaddr}",
+    "interval": 2
+},
+
+"privacy": {
+	"icon-spacing": 4,
+	"icon-size": 14,
+	"transition-duration": 250,
+	"modules": [
+		{
+			"type": "screenshare",
+			"tooltip": true,
+			"tooltip-icon-size": 24
+		},
+		{
+			"type": "audio-out",
+			"tooltip": true,
+			"tooltip-icon-size": 24
+		},
+		{
+			"type": "audio-in",
+			"tooltip": true,
+			"tooltip-icon-size": 24
+		},
+		{
+			"type": "location",
+			"icon-name": "location-services-active-symbolic"
+		}
+	],
+	"ignore-monitor": true,
+	"ignore": [
+		{
+			"type": "audio-in",
+			"name": "cava"
+		},
+		{
+			"type": "screenshare",
+			"name": "obs"
+		}
+	]
+},
+
+   "custom/colorcycle": {
+        "format": "<big>󰏘</big>",
+        "tooltip-format": "Color switching",
+        "on-click": "~/.config/waybar/scripts/cycle_colors.sh"
+    },
+    "custom/layout": {
+        "format": "󰕰",
+        "tooltip-format": "Layout switching",
+        "on-click": "~/.config/waybar/scripts/cycle_layouts.sh"
+    },
+
+"power-profiles-daemon": {
+  "format": "{icon}",
+  "tooltip-format": "Power profile: {profile}nCPU driver: {cpu_driver}nPlatform driver: {platform_driver}",
+  "tooltip": true,
+  "format-icons": {
+    "default": "",
+    "performance": "",
+    "balanced": " ",
+    "power-saver": " "
+  } 
+},
+
+"custom/notificater": {
+        "tooltip": false,
+        "format": "{icon}",
+        "format-icons": {
+            "notification": "<span size='12000'></span>     <span size='12000'>⏻</span>     <span size='11000'></span> <span foreground='red'></span>",
+            "none": "<span size='12000'></span>     <span size='12000'>⏻</span>     <span size='11000'></span>",
+            "dnd-notification": "<span size='12000'></span>     <span size='12000'>⏻</span>     <span size='11000'></span> <span foreground='red'></span>",
+            "dnd-none": "<span size='12000'></span>     <span size='12000'>⏻</span>     <span size='11000'></span>",
+            "inhibited-notification": "<span size='12000'></span>     <span size='12000'>⏻</span>     <span size='11000'></span> <span foreground='red'></span>",
+            "inhibited-none": "<span size='12000'></span>     <span size='12000'>⏻</span>     <span size='11000'></span>",
+            "dnd-inhibited-notification": "<span size='12000'></span>     <span size='12000'>⏻</span>     <span size='11000'></span> <span foreground='red'></span>",
+            "dnd-inhibited-none": "<span size='12000'></span>     <span size='12000'>⏻</span>     <span size='11000'></span>"
+        },
+        "return-type": "json",
+        "exec-if": "which swaync-client",
+        "exec": "swaync-client -swb",
+        "on-click": "swaync-client -t -sw",
+        "on-click-right": "swaync-client -d -sw",
+        "escape": true
+    },
+
+ "cpu": {
+   "interval": 1,
+   "format": "  {}%"
+}, 
+
+"wireplumber#microphone": {
+    "format": "{icon} {volume}%",
+    "format-muted": "  Muted",
+    "on-click": "wpctl set-mute @DEFAULT_AUDIO_SOURCE@ toggle",
+    "on-scroll-up": "wpctl set-volume -l 1.5 @DEFAULT_AUDIO_SOURCE@ 5%+",
+    "on-scroll-down": "wpctl set-volume @DEFAULT_AUDIO_SOURCE@ 5%-",
+    "node-type": "Audio/Source",
+    "format-icons": [""]
+},
+
+"memory": {
+    "interval": 1,
+    "format": "  {used:0.1f} GiB",
+    "tooltip": true,
+    "tooltip-format": "Memória Swap: {swapUsed:0.1f}GB / {swapTotal:0.1f}GB"
+},
+
+    "clock": {
+        "format": " {:%H:%M %p |  %d-%m-%Y}",
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
+    },
+    "group/tray-drawer": {
+        "orientation": "horizontal",
+        "drawer": {
+            "transition-duration": 500,
+            "children-class": "tray-icons",
+            "transition-left-to-right": true,
+            "click-to-reveal": true
+        },
+        "modules": [
+            "custom/tray-menu",
+            "tray",
+        ]
+    },
+
+"group/tray-drawer-left": {
+        "orientation": "horizontal",
+        "drawer": {
+            "transition-duration": 500,
+            "children-class": "tray-icons",
+            "transition-right-to-left": true,
+            "click-to-reveal": true
+        },
+        "modules": [
+            "custom/tray-menu-left",
+            "tray",
+        ]
+    },
+
+    "custom/menu": {
+        "format": "󰸉",
+      "on-click": "waypaper"
+   },
+
+    "custom/tray-menu": {
+        "format": "",
+        "tooltip": false
+    },
+"custom/tray-menu-left": {
+        "format": "",
+        "tooltip": false
+    },
+    "tray": {
+        "icon-size": 18,
+        "spacing": 14
+    },
+
+"hyprland/workspaces": {
+    "format": "{icon}",
+    "persistent-workspaces": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": []
+      },
+    "on-click": "activate",
+    "format-icons": {
+      "default": "󰝦",
+      "active": "󰝥",
+      "urgent": "󰝥",
+}
+  },
+
+"custom/notifications": {
+    "format": "<big>󰐥</big>",
+    "on-click": "hyprlock",
+  },
+
+"mpris": {
+    "interval": 0.5,
+    "format": "{player_icon} {artist} | {title}: [{position}] - [{length}]",
+    "format-paused": "{player_icon} 󰐊 {artist} | {title}: [{position}] - [{length}]",
+    "format-stopped": "Nothing playing for now... ;)",
+    "max-length": 1000,
+    "player-icons": {
+        "default": "▶ ",
+        "spotify": " ",
+        "firefox": "󰈹 ",
+    },
+    "tooltip": true,
+    "player": ["firefox", "spotify"],
+  }
+}

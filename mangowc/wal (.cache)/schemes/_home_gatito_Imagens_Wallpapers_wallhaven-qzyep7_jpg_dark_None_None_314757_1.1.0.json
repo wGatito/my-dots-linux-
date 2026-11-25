@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/wallhaven-qzyep7.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#080E27",
+        "foreground": "#ac9eb9",
+        "cursor": "#ac9eb9"
+    },
+    "colors": {
+        "color0": "#080E27",
+        "color1": "#113289",
+        "color2": "#2C3B8E",
+        "color3": "#303AA2",
+        "color4": "#4A3D88",
+        "color5": "#3A418A",
+        "color6": "#4D458A",
+        "color7": "#ac9eb9",
+        "color8": "#786e81",
+        "color9": "#113289",
+        "color10": "#2C3B8E",
+        "color11": "#303AA2",
+        "color12": "#4A3D88",
+        "color13": "#3A418A",
+        "color14": "#4D458A",
+        "color15": "#ac9eb9"
+    }
+}

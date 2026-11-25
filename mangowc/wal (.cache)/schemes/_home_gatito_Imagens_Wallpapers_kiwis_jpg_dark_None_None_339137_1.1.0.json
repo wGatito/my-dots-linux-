@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/kiwis.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181922",
+        "foreground": "#e9e4df",
+        "cursor": "#e9e4df"
+    },
+    "colors": {
+        "color0": "#181922",
+        "color1": "#CCB3AF",
+        "color2": "#AADFAA",
+        "color3": "#B1D3B2",
+        "color4": "#D1D9B3",
+        "color5": "#B6CECA",
+        "color6": "#D5D8CF",
+        "color7": "#e9e4df",
+        "color8": "#a39f9c",
+        "color9": "#CCB3AF",
+        "color10": "#AADFAA",
+        "color11": "#B1D3B2",
+        "color12": "#D1D9B3",
+        "color13": "#B6CECA",
+        "color14": "#D5D8CF",
+        "color15": "#e9e4df"
+    }
+}

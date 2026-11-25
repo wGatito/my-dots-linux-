@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/sousou-no-frieren-flowers.png",
+    "alpha": "100",
+    "special": {
+        "background": "#16161f",
+        "foreground": "#dfe3e3",
+        "cursor": "#dfe3e3"
+    },
+    "colors": {
+        "color0": "#16161f",
+        "color1": "#8D7C93",
+        "color2": "#7D839C",
+        "color3": "#988BA6",
+        "color4": "#D891A9",
+        "color5": "#9DA9D7",
+        "color6": "#BFB1DC",
+        "color7": "#dfe3e3",
+        "color8": "#9c9e9e",
+        "color9": "#8D7C93",
+        "color10": "#7D839C",
+        "color11": "#988BA6",
+        "color12": "#D891A9",
+        "color13": "#9DA9D7",
+        "color14": "#BFB1DC",
+        "color15": "#dfe3e3"
+    }
+}

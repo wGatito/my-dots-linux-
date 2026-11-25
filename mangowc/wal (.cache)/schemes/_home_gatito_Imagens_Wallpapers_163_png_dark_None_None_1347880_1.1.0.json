@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/163.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0e12",
+        "foreground": "#e1c8b1",
+        "cursor": "#e1c8b1"
+    },
+    "colors": {
+        "color0": "#0a0e12",
+        "color1": "#5B4B41",
+        "color2": "#6A5646",
+        "color3": "#7A624F",
+        "color4": "#884732",
+        "color5": "#946E54",
+        "color6": "#B48967",
+        "color7": "#e1c8b1",
+        "color8": "#9d8c7b",
+        "color9": "#5B4B41",
+        "color10": "#6A5646",
+        "color11": "#7A624F",
+        "color12": "#884732",
+        "color13": "#946E54",
+        "color14": "#B48967",
+        "color15": "#e1c8b1"
+    }
+}

@@ -1,0 +1,159 @@
+/* Layout: Outline */
+
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "Inter", monospace;
+    font-size: 13px;
+    min-height: 0;
+}
+
+window#waybar {
+    background: @bar_bg;
+    color: @bar_fg;
+}
+
+tooltip {
+    background-color: @bar_bg;
+    color: @bar_fg;
+    border: 2px solid @hover_bg;
+    border-radius: 8px;
+}
+
+tooltip label {
+    color: @bar_fg;
+    text-shadow: none;
+}
+
+/* --- Modules: Base --- */
+#custom-layout,
+#custom-colorcycle,
+#custom-tray-menu,
+#mango-workspaces,
+#clock,
+#network,
+#custom-updater,
+#custom-notificater,
+#custom-menu,
+#ext-workspaces,
+#backlight,
+#pulseaudio,
+#cpu,
+#user,
+#battery,
+#custom-clip,
+#custom-notifications,
+#cava,
+#inhibitor,
+#privacy,
+#custom-snip,
+#bluetooth,
+#wireplumber.microphone,
+#memory,
+#disk,
+#hyprland-window,
+#custom-theme-switcher,
+#mpris,
+#workspaces,
+#tray,
+#custom-hyprlock,
+#power-profiles-daemon,
+#idle_inhibitor,
+#custom-notification,
+#custom-power,
+#custom-launcher {
+    background: @module_bg;
+    color: @module_fg;
+    padding: 0px 13px;
+    margin: 4px 2px 4px 2px;
+    border: 2px solid transparent; 
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+#custom-launcher {
+    color: @launcher;
+    font-weight: bold;
+}
+
+#custom-power {
+    color: @power;
+}
+
+#keyboard-state {
+    background: transparent;
+}
+
+#keyboard-state label.locked {
+    background: @special;
+    color: @module_fg; 
+    padding: 0px 12px;
+    margin: 4px 2px 4px 2px;
+    border-radius: 8px;
+}
+
+#network.disconnected,
+#network.disabled {
+    color: @power; 
+}
+
+/* --- Hover Effects --- */
+#custom-launcher:hover,
+#custom-layout:hover,
+#custom-colorcycle:hover,
+#custom-tray-menu:hover,
+#clock:hover,
+#disk:hover,
+#mpris:hover,
+#network:hover,
+#user:hover,
+#backlight:hover,
+#pulseaudio:hover,
+#battery:hover,
+#custom-notificater:hover,
+#privacy:hover,
+#memory:hover,
+#tray:hover,
+#custom-menu:hover,
+#wireplumber.microphone:hover,
+#custom-clip:hover,
+#cava:hover,
+#custom-snip:hover,
+#custom-notifications:hover,
+#inhibitor:hover,
+#cpu:hover,
+#custom-updater:hover,
+#custom-theme-switcher:hover,
+#idle_inhibitor:hover,
+#ext-workspaces:hover,
+#bluetooth:hover,
+#power-profiles-daemon:hover,
+#custom-notification:hover,
+#custom-music:hover,
+#custom-thunar:hover {
+    color: @hover_bg;
+    border-color: @hover_bg;
+}
+
+#custom-launcher:hover {
+    color: @launcher;
+    border-color: @launcher;
+}
+
+#custom-todo:hover,
+#custom-countdown:hover {
+    border-color: @special;
+}
+
+#custom-power:hover {
+    color: @power;
+    border-color: @power;
+}
+
+#ext-workspaces button {
+    color: @module_fg;
+}
+
+#ext-workspaces button.active {
+    color: @power;
+}

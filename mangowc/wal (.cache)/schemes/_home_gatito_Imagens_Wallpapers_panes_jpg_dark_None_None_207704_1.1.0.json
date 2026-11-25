@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/panes.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#11131b",
+        "foreground": "#e1dedf",
+        "cursor": "#e1dedf"
+    },
+    "colors": {
+        "color0": "#11131b",
+        "color1": "#7F839D",
+        "color2": "#7F87A2",
+        "color3": "#8C8FA7",
+        "color4": "#A5B1D2",
+        "color5": "#B4BFD9",
+        "color6": "#C8A9C1",
+        "color7": "#e1dedf",
+        "color8": "#9d9b9c",
+        "color9": "#7F839D",
+        "color10": "#7F87A2",
+        "color11": "#8C8FA7",
+        "color12": "#A5B1D2",
+        "color13": "#B4BFD9",
+        "color14": "#C8A9C1",
+        "color15": "#e1dedf"
+    }
+}

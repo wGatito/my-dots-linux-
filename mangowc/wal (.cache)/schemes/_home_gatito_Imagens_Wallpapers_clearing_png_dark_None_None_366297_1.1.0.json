@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/clearing.png",
+    "alpha": "100",
+    "special": {
+        "background": "#12131e",
+        "foreground": "#c4c0ca",
+        "cursor": "#c4c0ca"
+    },
+    "colors": {
+        "color0": "#12131e",
+        "color1": "#65667B",
+        "color2": "#82707C",
+        "color3": "#72768D",
+        "color4": "#857B91",
+        "color5": "#7C829B",
+        "color6": "#8D91AB",
+        "color7": "#c4c0ca",
+        "color8": "#89868d",
+        "color9": "#65667B",
+        "color10": "#82707C",
+        "color11": "#72768D",
+        "color12": "#857B91",
+        "color13": "#7C829B",
+        "color14": "#8D91AB",
+        "color15": "#c4c0ca"
+    }
+}

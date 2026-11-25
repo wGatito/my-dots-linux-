@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/tree-stump.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f17",
+        "foreground": "#d1dae8",
+        "cursor": "#d1dae8"
+    },
+    "colors": {
+        "color0": "#0f0f17",
+        "color1": "#62677B",
+        "color2": "#6F758A",
+        "color3": "#857C90",
+        "color4": "#7C849D",
+        "color5": "#8993AF",
+        "color6": "#9FAFD8",
+        "color7": "#d1dae8",
+        "color8": "#9298a2",
+        "color9": "#62677B",
+        "color10": "#6F758A",
+        "color11": "#857C90",
+        "color12": "#7C849D",
+        "color13": "#8993AF",
+        "color14": "#9FAFD8",
+        "color15": "#d1dae8"
+    }
+}

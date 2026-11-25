@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/red-mobile-suit-alt.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#030003",
+        "foreground": "#df779c",
+        "cursor": "#df779c"
+    },
+    "colors": {
+        "color0": "#030003",
+        "color1": "#960036",
+        "color2": "#AE002E",
+        "color3": "#C5001F",
+        "color4": "#D10028",
+        "color5": "#E40034",
+        "color6": "#A00047",
+        "color7": "#df779c",
+        "color8": "#9c536d",
+        "color9": "#960036",
+        "color10": "#AE002E",
+        "color11": "#C5001F",
+        "color12": "#D10028",
+        "color13": "#E40034",
+        "color14": "#A00047",
+        "color15": "#df779c"
+    }
+}

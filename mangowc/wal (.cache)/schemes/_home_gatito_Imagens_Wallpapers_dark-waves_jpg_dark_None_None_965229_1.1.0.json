@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/dark-waves.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F111D",
+        "foreground": "#bcc1ce",
+        "cursor": "#bcc1ce"
+    },
+    "colors": {
+        "color0": "#0F111D",
+        "color1": "#525568",
+        "color2": "#616579",
+        "color3": "#5F6881",
+        "color4": "#6F748A",
+        "color5": "#837D92",
+        "color6": "#7B849D",
+        "color7": "#bcc1ce",
+        "color8": "#838790",
+        "color9": "#525568",
+        "color10": "#616579",
+        "color11": "#5F6881",
+        "color12": "#6F748A",
+        "color13": "#837D92",
+        "color14": "#7B849D",
+        "color15": "#bcc1ce"
+    }
+}

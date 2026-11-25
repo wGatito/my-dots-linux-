@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/snowflakes.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1018",
+        "foreground": "#cfdbe9",
+        "cursor": "#cfdbe9"
+    },
+    "colors": {
+        "color0": "#0f1018",
+        "color1": "#70758B",
+        "color2": "#847C81",
+        "color3": "#7C849C",
+        "color4": "#8994AF",
+        "color5": "#9CB3D8",
+        "color6": "#AEC7E0",
+        "color7": "#cfdbe9",
+        "color8": "#9099a3",
+        "color9": "#70758B",
+        "color10": "#847C81",
+        "color11": "#7C849C",
+        "color12": "#8994AF",
+        "color13": "#9CB3D8",
+        "color14": "#AEC7E0",
+        "color15": "#cfdbe9"
+    }
+}

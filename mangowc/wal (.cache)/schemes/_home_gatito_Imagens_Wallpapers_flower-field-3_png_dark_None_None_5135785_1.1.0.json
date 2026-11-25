@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/flower-field-3.png",
+    "alpha": "100",
+    "special": {
+        "background": "#15151f",
+        "foreground": "#e3dede",
+        "cursor": "#e3dede"
+    },
+    "colors": {
+        "color0": "#15151f",
+        "color1": "#A090A3",
+        "color2": "#E0AAA5",
+        "color3": "#EAB1A6",
+        "color4": "#E1C6B5",
+        "color5": "#EBCCB5",
+        "color6": "#C7B6C6",
+        "color7": "#e3dede",
+        "color8": "#9e9b9b",
+        "color9": "#A090A3",
+        "color10": "#E0AAA5",
+        "color11": "#EAB1A6",
+        "color12": "#E1C6B5",
+        "color13": "#EBCCB5",
+        "color14": "#C7B6C6",
+        "color15": "#e3dede"
+    }
+}

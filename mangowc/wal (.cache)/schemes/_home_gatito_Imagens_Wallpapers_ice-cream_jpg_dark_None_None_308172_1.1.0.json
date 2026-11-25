@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/ice-cream.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0c12",
+        "foreground": "#ded6d5",
+        "cursor": "#ded6d5"
+    },
+    "colors": {
+        "color0": "#0c0c12",
+        "color1": "#535669",
+        "color2": "#626579",
+        "color3": "#5F6780",
+        "color4": "#717489",
+        "color5": "#817F93",
+        "color6": "#9894A7",
+        "color7": "#ded6d5",
+        "color8": "#9b9595",
+        "color9": "#535669",
+        "color10": "#626579",
+        "color11": "#5F6780",
+        "color12": "#717489",
+        "color13": "#817F93",
+        "color14": "#9894A7",
+        "color15": "#ded6d5"
+    }
+}

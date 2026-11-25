@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/wallhaven_4l12e2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020202",
+        "foreground": "#e2ebeb",
+        "cursor": "#e2ebeb"
+    },
+    "colors": {
+        "color0": "#020202",
+        "color1": "#945D61",
+        "color2": "#788889",
+        "color3": "#9AA9AA",
+        "color4": "#B4B8BA",
+        "color5": "#B4CCCD",
+        "color6": "#CBD6D7",
+        "color7": "#e2ebeb",
+        "color8": "#9ea4a4",
+        "color9": "#945D61",
+        "color10": "#788889",
+        "color11": "#9AA9AA",
+        "color12": "#B4B8BA",
+        "color13": "#B4CCCD",
+        "color14": "#CBD6D7",
+        "color15": "#e2ebeb"
+    }
+}

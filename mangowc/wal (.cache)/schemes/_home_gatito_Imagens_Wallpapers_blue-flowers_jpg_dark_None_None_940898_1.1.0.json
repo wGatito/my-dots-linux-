@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/blue-flowers.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0e16",
+        "foreground": "#c6cfde",
+        "cursor": "#c6cfde"
+    },
+    "colors": {
+        "color0": "#0d0e16",
+        "color1": "#5D6276",
+        "color2": "#63687C",
+        "color3": "#70758A",
+        "color4": "#7C839A",
+        "color5": "#8993AE",
+        "color6": "#8D98B1",
+        "color7": "#c6cfde",
+        "color8": "#8a909b",
+        "color9": "#5D6276",
+        "color10": "#63687C",
+        "color11": "#70758A",
+        "color12": "#7C839A",
+        "color13": "#8993AE",
+        "color14": "#8D98B1",
+        "color15": "#c6cfde"
+    }
+}

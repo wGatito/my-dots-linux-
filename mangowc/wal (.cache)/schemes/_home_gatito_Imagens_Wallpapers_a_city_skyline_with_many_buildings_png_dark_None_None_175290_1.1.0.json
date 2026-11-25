@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/a_city_skyline_with_many_buildings.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0E161B",
+        "foreground": "#c2c1c2",
+        "cursor": "#c2c1c2"
+    },
+    "colors": {
+        "color0": "#0E161B",
+        "color1": "#D65E5E",
+        "color2": "#E75756",
+        "color3": "#927F82",
+        "color4": "#69A9A8",
+        "color5": "#76B2D7",
+        "color6": "#68C3C0",
+        "color7": "#c2c1c2",
+        "color8": "#878787",
+        "color9": "#D65E5E",
+        "color10": "#E75756",
+        "color11": "#927F82",
+        "color12": "#69A9A8",
+        "color13": "#76B2D7",
+        "color14": "#68C3C0",
+        "color15": "#c2c1c2"
+    }
+}

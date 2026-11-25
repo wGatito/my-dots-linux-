@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/car-wreck.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f16",
+        "foreground": "#b8bdcb",
+        "cursor": "#b8bdcb"
+    },
+    "colors": {
+        "color0": "#0f0f16",
+        "color1": "#63667C",
+        "color2": "#70758C",
+        "color3": "#89798B",
+        "color4": "#7C839B",
+        "color5": "#7F87A0",
+        "color6": "#A58B9C",
+        "color7": "#b8bdcb",
+        "color8": "#80848e",
+        "color9": "#63667C",
+        "color10": "#70758C",
+        "color11": "#89798B",
+        "color12": "#7C839B",
+        "color13": "#7F87A0",
+        "color14": "#A58B9C",
+        "color15": "#b8bdcb"
+    }
+}

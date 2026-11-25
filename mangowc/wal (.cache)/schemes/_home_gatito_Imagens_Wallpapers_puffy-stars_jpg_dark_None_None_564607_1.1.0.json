@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/puffy-stars.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E101C",
+        "foreground": "#e7c2cf",
+        "cursor": "#e7c2cf"
+    },
+    "colors": {
+        "color0": "#0E101C",
+        "color1": "#626679",
+        "color2": "#5E6983",
+        "color3": "#6F7387",
+        "color4": "#8A7B91",
+        "color5": "#7D8098",
+        "color6": "#A28DA5",
+        "color7": "#e7c2cf",
+        "color8": "#a18790",
+        "color9": "#626679",
+        "color10": "#5E6983",
+        "color11": "#6F7387",
+        "color12": "#8A7B91",
+        "color13": "#7D8098",
+        "color14": "#A28DA5",
+        "color15": "#e7c2cf"
+    }
+}

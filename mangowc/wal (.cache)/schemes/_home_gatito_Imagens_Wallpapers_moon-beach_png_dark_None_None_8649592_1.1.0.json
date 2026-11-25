@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/moon-beach.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0e16",
+        "foreground": "#cedae8",
+        "cursor": "#cedae8"
+    },
+    "colors": {
+        "color0": "#0e0e16",
+        "color1": "#817F88",
+        "color2": "#7C849D",
+        "color3": "#7E9CC0",
+        "color4": "#8893AF",
+        "color5": "#949CB1",
+        "color6": "#9BB0D3",
+        "color7": "#cedae8",
+        "color8": "#9098a2",
+        "color9": "#817F88",
+        "color10": "#7C849D",
+        "color11": "#7E9CC0",
+        "color12": "#8893AF",
+        "color13": "#949CB1",
+        "color14": "#9BB0D3",
+        "color15": "#cedae8"
+    }
+}

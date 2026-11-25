@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/blue-landscape.png",
+    "alpha": "100",
+    "special": {
+        "background": "#111119",
+        "foreground": "#c8dce5",
+        "cursor": "#c8dce5"
+    },
+    "colors": {
+        "color0": "#111119",
+        "color1": "#6F748B",
+        "color2": "#7B859C",
+        "color3": "#7E9BC1",
+        "color4": "#8B9BAE",
+        "color5": "#ABD3B3",
+        "color6": "#94B2D3",
+        "color7": "#c8dce5",
+        "color8": "#8c9aa0",
+        "color9": "#6F748B",
+        "color10": "#7B859C",
+        "color11": "#7E9BC1",
+        "color12": "#8B9BAE",
+        "color13": "#ABD3B3",
+        "color14": "#94B2D3",
+        "color15": "#c8dce5"
+    }
+}

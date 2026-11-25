@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/kfc.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0b11",
+        "foreground": "#bcb4bc",
+        "cursor": "#bcb4bc"
+    },
+    "colors": {
+        "color0": "#0a0b11",
+        "color1": "#3F4960",
+        "color2": "#454859",
+        "color3": "#515468",
+        "color4": "#676577",
+        "color5": "#88737C",
+        "color6": "#747286",
+        "color7": "#bcb4bc",
+        "color8": "#837d83",
+        "color9": "#3F4960",
+        "color10": "#454859",
+        "color11": "#515468",
+        "color12": "#676577",
+        "color13": "#88737C",
+        "color14": "#747286",
+        "color15": "#bcb4bc"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/venice-market.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1018",
+        "foreground": "#cbdcd7",
+        "cursor": "#cbdcd7"
+    },
+    "colors": {
+        "color0": "#0f1018",
+        "color1": "#5E6681",
+        "color2": "#71738A",
+        "color3": "#837E92",
+        "color4": "#9A94A5",
+        "color5": "#DBABAB",
+        "color6": "#E3CCB6",
+        "color7": "#cbdcd7",
+        "color8": "#8e9a96",
+        "color9": "#5E6681",
+        "color10": "#71738A",
+        "color11": "#837E92",
+        "color12": "#9A94A5",
+        "color13": "#DBABAB",
+        "color14": "#E3CCB6",
+        "color15": "#cbdcd7"
+    }
+}

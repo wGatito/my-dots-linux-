@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/flowering-rain.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0a12",
+        "foreground": "#b7bac6",
+        "cursor": "#b7bac6"
+    },
+    "colors": {
+        "color0": "#0a0a12",
+        "color1": "#5E6177",
+        "color2": "#63667C",
+        "color3": "#757A91",
+        "color4": "#7C8199",
+        "color5": "#7C829A",
+        "color6": "#7E85A0",
+        "color7": "#b7bac6",
+        "color8": "#80828a",
+        "color9": "#5E6177",
+        "color10": "#63667C",
+        "color11": "#757A91",
+        "color12": "#7C8199",
+        "color13": "#7C829A",
+        "color14": "#7E85A0",
+        "color15": "#b7bac6"
+    }
+}

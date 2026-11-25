@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/pine.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090a12",
+        "foreground": "#ccd0dc",
+        "cursor": "#ccd0dc"
+    },
+    "colors": {
+        "color0": "#090a12",
+        "color1": "#535669",
+        "color2": "#626579",
+        "color3": "#71758A",
+        "color4": "#847C8F",
+        "color5": "#7D8298",
+        "color6": "#9094AB",
+        "color7": "#ccd0dc",
+        "color8": "#8e919a",
+        "color9": "#535669",
+        "color10": "#626579",
+        "color11": "#71758A",
+        "color12": "#847C8F",
+        "color13": "#7D8298",
+        "color14": "#9094AB",
+        "color15": "#ccd0dc"
+    }
+}

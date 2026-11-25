@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/cliff-path.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101119",
+        "foreground": "#d0dae8",
+        "cursor": "#d0dae8"
+    },
+    "colors": {
+        "color0": "#101119",
+        "color1": "#837C84",
+        "color2": "#7B8694",
+        "color3": "#949FA7",
+        "color4": "#B8C6AE",
+        "color5": "#D1CDB7",
+        "color6": "#A0B5DB",
+        "color7": "#d0dae8",
+        "color8": "#9198a2",
+        "color9": "#837C84",
+        "color10": "#7B8694",
+        "color11": "#949FA7",
+        "color12": "#B8C6AE",
+        "color13": "#D1CDB7",
+        "color14": "#A0B5DB",
+        "color15": "#d0dae8"
+    }
+}

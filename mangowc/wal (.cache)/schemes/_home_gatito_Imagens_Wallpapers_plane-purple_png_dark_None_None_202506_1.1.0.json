@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/plane-purple.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101019",
+        "foreground": "#e2e0e3",
+        "cursor": "#e2e0e3"
+    },
+    "colors": {
+        "color0": "#101019",
+        "color1": "#808099",
+        "color2": "#9A94AC",
+        "color3": "#9AA6CC",
+        "color4": "#ABB1D5",
+        "color5": "#A3B3DB",
+        "color6": "#BDC2DA",
+        "color7": "#e2e0e3",
+        "color8": "#9e9c9e",
+        "color9": "#808099",
+        "color10": "#9A94AC",
+        "color11": "#9AA6CC",
+        "color12": "#ABB1D5",
+        "color13": "#A3B3DB",
+        "color14": "#BDC2DA",
+        "color15": "#e2e0e3"
+    }
+}

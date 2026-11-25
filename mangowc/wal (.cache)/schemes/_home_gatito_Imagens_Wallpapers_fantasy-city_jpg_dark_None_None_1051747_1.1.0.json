@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/fantasy-city.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0f16",
+        "foreground": "#ccd6e0",
+        "cursor": "#ccd6e0"
+    },
+    "colors": {
+        "color0": "#0e0f16",
+        "color1": "#717489",
+        "color2": "#887B8D",
+        "color3": "#7E8195",
+        "color4": "#9C93A4",
+        "color5": "#DEAAAA",
+        "color6": "#E3CDB5",
+        "color7": "#ccd6e0",
+        "color8": "#8e959c",
+        "color9": "#717489",
+        "color10": "#887B8D",
+        "color11": "#7E8195",
+        "color12": "#9C93A4",
+        "color13": "#DEAAAA",
+        "color14": "#E3CDB5",
+        "color15": "#ccd6e0"
+    }
+}

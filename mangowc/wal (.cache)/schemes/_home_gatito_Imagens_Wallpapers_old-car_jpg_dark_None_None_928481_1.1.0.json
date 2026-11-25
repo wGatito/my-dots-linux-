@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/old-car.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#191a23",
+        "foreground": "#c6cfd9",
+        "cursor": "#c6cfd9"
+    },
+    "colors": {
+        "color0": "#191a23",
+        "color1": "#857C88",
+        "color2": "#7D839A",
+        "color3": "#8991AA",
+        "color4": "#A09EAC",
+        "color5": "#D1B3A6",
+        "color6": "#DDD0B7",
+        "color7": "#c6cfd9",
+        "color8": "#8a9097",
+        "color9": "#857C88",
+        "color10": "#7D839A",
+        "color11": "#8991AA",
+        "color12": "#A09EAC",
+        "color13": "#D1B3A6",
+        "color14": "#DDD0B7",
+        "color15": "#c6cfd9"
+    }
+}

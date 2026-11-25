@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/harbor.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101219",
+        "foreground": "#cbdde7",
+        "cursor": "#cbdde7"
+    },
+    "colors": {
+        "color0": "#101219",
+        "color1": "#847C8D",
+        "color2": "#7C849C",
+        "color3": "#8B96B0",
+        "color4": "#94AFD4",
+        "color5": "#9DB9DC",
+        "color6": "#C6BAC9",
+        "color7": "#cbdde7",
+        "color8": "#8e9aa1",
+        "color9": "#847C8D",
+        "color10": "#7C849C",
+        "color11": "#8B96B0",
+        "color12": "#94AFD4",
+        "color13": "#9DB9DC",
+        "color14": "#C6BAC9",
+        "color15": "#cbdde7"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/cabin-3.png",
+    "alpha": "100",
+    "special": {
+        "background": "#111119",
+        "foreground": "#bcbdc9",
+        "cursor": "#bcbdc9"
+    },
+    "colors": {
+        "color0": "#111119",
+        "color1": "#625D69",
+        "color2": "#5E6176",
+        "color3": "#63677C",
+        "color4": "#6E7288",
+        "color5": "#847B84",
+        "color6": "#7D8299",
+        "color7": "#bcbdc9",
+        "color8": "#83848c",
+        "color9": "#625D69",
+        "color10": "#5E6176",
+        "color11": "#63677C",
+        "color12": "#6E7288",
+        "color13": "#847B84",
+        "color14": "#7D8299",
+        "color15": "#bcbdc9"
+    }
+}

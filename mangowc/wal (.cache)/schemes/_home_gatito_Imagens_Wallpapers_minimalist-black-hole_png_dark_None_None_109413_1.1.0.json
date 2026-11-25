@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/minimalist-black-hole.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0F1D",
+        "foreground": "#eae4e1",
+        "cursor": "#eae4e1"
+    },
+    "colors": {
+        "color0": "#0B0F1D",
+        "color1": "#B07788",
+        "color2": "#A69DA1",
+        "color3": "#F196A7",
+        "color4": "#E9A8A6",
+        "color5": "#D0C2BE",
+        "color6": "#F0C5AC",
+        "color7": "#eae4e1",
+        "color8": "#a39f9d",
+        "color9": "#B07788",
+        "color10": "#A69DA1",
+        "color11": "#F196A7",
+        "color12": "#E9A8A6",
+        "color13": "#D0C2BE",
+        "color14": "#F0C5AC",
+        "color15": "#eae4e1"
+    }
+}

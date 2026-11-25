@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/storm.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1018",
+        "foreground": "#cfcfda",
+        "cursor": "#cfcfda"
+    },
+    "colors": {
+        "color0": "#0f1018",
+        "color1": "#71768B",
+        "color2": "#847C92",
+        "color3": "#7D8298",
+        "color4": "#7F87A0",
+        "color5": "#8F93AB",
+        "color6": "#8F94AA",
+        "color7": "#cfcfda",
+        "color8": "#909098",
+        "color9": "#71768B",
+        "color10": "#847C92",
+        "color11": "#7D8298",
+        "color12": "#7F87A0",
+        "color13": "#8F93AB",
+        "color14": "#8F94AA",
+        "color15": "#cfcfda"
+    }
+}

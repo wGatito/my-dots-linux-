@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/beach-path.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0a11",
+        "foreground": "#d1d5dc",
+        "cursor": "#d1d5dc"
+    },
+    "colors": {
+        "color0": "#0a0a11",
+        "color1": "#70758A",
+        "color2": "#7A8B95",
+        "color3": "#94A3A1",
+        "color4": "#A7D5A8",
+        "color5": "#AFE5AA",
+        "color6": "#D4DEB1",
+        "color7": "#d1d5dc",
+        "color8": "#92959a",
+        "color9": "#70758A",
+        "color10": "#7A8B95",
+        "color11": "#94A3A1",
+        "color12": "#A7D5A8",
+        "color13": "#AFE5AA",
+        "color14": "#D4DEB1",
+        "color15": "#d1d5dc"
+    }
+}

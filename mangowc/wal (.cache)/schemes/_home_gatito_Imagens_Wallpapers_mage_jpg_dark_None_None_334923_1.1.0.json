@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/mage.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1018",
+        "foreground": "#c0dce9",
+        "cursor": "#c0dce9"
+    },
+    "colors": {
+        "color0": "#0f1018",
+        "color1": "#7B87A3",
+        "color2": "#7FA7C0",
+        "color3": "#8394B6",
+        "color4": "#8CA8D2",
+        "color5": "#8FB8E5",
+        "color6": "#9ED7DC",
+        "color7": "#c0dce9",
+        "color8": "#869aa3",
+        "color9": "#7B87A3",
+        "color10": "#7FA7C0",
+        "color11": "#8394B6",
+        "color12": "#8CA8D2",
+        "color13": "#8FB8E5",
+        "color14": "#9ED7DC",
+        "color15": "#c0dce9"
+    }
+}

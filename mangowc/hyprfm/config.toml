@@ -1,0 +1,60 @@
+[appearance]
+anim_curve_enter = 'OutCubic'
+anim_curve_exit = 'InCubic'
+anim_curve_transition = 'Bezier'
+anim_duration = 200
+anim_duration_fast = 100
+anim_duration_slow = 350
+animations_enabled = true
+radius_large = 26
+radius_medium = 24
+radius_small = 14
+transparency_enabled = true
+transparency_level = 1.0
+
+[bookmarks]
+paths = [ "~/Downloads/gatito's dotflies (mangoWC and Arch)", '~/Documentos', '~/Downloads', '~/Imagens' ]
+
+[context_menu]
+
+[general]
+builtin_icons = true
+dark_theme = 'dracula'
+default_view = 'grid'
+dependency_startup_check = true
+font_family = 'Ubuntu Nerd Font Med'
+hidden_last = false
+icon_theme = 'Adwaita'
+light_theme = 'catppuccin-latte'
+remember_sort_per_folder = true
+right_click_to_edit_path = true
+show_hidden = true
+single_click_opens_folders = false
+sort_ascending = true
+sort_by = 'name'
+split_orientation = 'vertical'
+theme = 'catppuccin-mocha'
+
+[list_view]
+column_widths = { modified = 140, size = 110, type = 80 }
+columns = [ 'name', 'size', 'modified', 'type' ]
+
+[miller_view]
+current_fraction = 0.5
+parent_fraction = 0.20000000000000001
+
+[saved_splits]
+splits = []
+
+[shortcuts]
+
+[sidebar]
+auto_hide_width = 700
+hidden_quick_access = []
+position = 'left'
+visible = true
+width = 240
+
+[window]
+button_layout = ':minimize,maximize,close'
+show_controls = true

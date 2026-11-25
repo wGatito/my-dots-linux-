@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/city-on-water.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1c1e27",
+        "foreground": "#c7dee7",
+        "cursor": "#c7dee7"
+    },
+    "colors": {
+        "color0": "#1c1e27",
+        "color1": "#7C849C",
+        "color2": "#7EA0C0",
+        "color3": "#8D95AF",
+        "color4": "#989DB2",
+        "color5": "#9FB1CD",
+        "color6": "#C6BBC0",
+        "color7": "#c7dee7",
+        "color8": "#8b9ba1",
+        "color9": "#7C849C",
+        "color10": "#7EA0C0",
+        "color11": "#8D95AF",
+        "color12": "#989DB2",
+        "color13": "#9FB1CD",
+        "color14": "#C6BBC0",
+        "color15": "#c7dee7"
+    }
+}

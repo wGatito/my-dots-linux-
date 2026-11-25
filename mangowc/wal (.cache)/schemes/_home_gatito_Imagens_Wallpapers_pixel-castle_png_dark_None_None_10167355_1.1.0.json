@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/pixel-castle.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0e16",
+        "foreground": "#cbbcc6",
+        "cursor": "#cbbcc6"
+    },
+    "colors": {
+        "color0": "#0d0e16",
+        "color1": "#A8837F",
+        "color2": "#76758C",
+        "color3": "#867B91",
+        "color4": "#AF7889",
+        "color5": "#C37D8E",
+        "color6": "#90839A",
+        "color7": "#cbbcc6",
+        "color8": "#8e838a",
+        "color9": "#A8837F",
+        "color10": "#76758C",
+        "color11": "#867B91",
+        "color12": "#AF7889",
+        "color13": "#C37D8E",
+        "color14": "#90839A",
+        "color15": "#cbbcc6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/knights-radiant.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0f16",
+        "foreground": "#e1dee0",
+        "cursor": "#e1dee0"
+    },
+    "colors": {
+        "color0": "#0e0f16",
+        "color1": "#616579",
+        "color2": "#71758A",
+        "color3": "#7D8197",
+        "color4": "#9695AB",
+        "color5": "#B4B1C9",
+        "color6": "#CCBAC4",
+        "color7": "#e1dee0",
+        "color8": "#9d9b9c",
+        "color9": "#616579",
+        "color10": "#71758A",
+        "color11": "#7D8197",
+        "color12": "#9695AB",
+        "color13": "#B4B1C9",
+        "color14": "#CCBAC4",
+        "color15": "#e1dee0"
+    }
+}

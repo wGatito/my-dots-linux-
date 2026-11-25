@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/cold-alley.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f18",
+        "foreground": "#cdd2e2",
+        "cursor": "#cdd2e2"
+    },
+    "colors": {
+        "color0": "#0f0f18",
+        "color1": "#5F6B81",
+        "color2": "#68758B",
+        "color3": "#907688",
+        "color4": "#77889D",
+        "color5": "#8F9EAE",
+        "color6": "#98B0CC",
+        "color7": "#cdd2e2",
+        "color8": "#8f939e",
+        "color9": "#5F6B81",
+        "color10": "#68758B",
+        "color11": "#907688",
+        "color12": "#77889D",
+        "color13": "#8F9EAE",
+        "color14": "#98B0CC",
+        "color15": "#cdd2e2"
+    }
+}

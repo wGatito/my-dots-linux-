@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/voyager-18.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f17",
+        "foreground": "#b5b9c4",
+        "cursor": "#b5b9c4"
+    },
+    "colors": {
+        "color0": "#0f0f17",
+        "color1": "#685968",
+        "color2": "#5D6276",
+        "color3": "#65677B",
+        "color4": "#5E7081",
+        "color5": "#70758A",
+        "color6": "#8E7783",
+        "color7": "#b5b9c4",
+        "color8": "#7e8189",
+        "color9": "#685968",
+        "color10": "#5D6276",
+        "color11": "#65677B",
+        "color12": "#5E7081",
+        "color13": "#70758A",
+        "color14": "#8E7783",
+        "color15": "#b5b9c4"
+    }
+}

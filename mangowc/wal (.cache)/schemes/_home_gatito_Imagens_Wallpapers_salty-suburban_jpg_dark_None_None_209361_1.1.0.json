@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/salty-suburban.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#15151e",
+        "foreground": "#e1e3e6",
+        "cursor": "#e1e3e6"
+    },
+    "colors": {
+        "color0": "#15151e",
+        "color1": "#9AAACA",
+        "color2": "#ADB6D1",
+        "color3": "#C9BCC2",
+        "color4": "#B6C7DE",
+        "color5": "#B3C8E1",
+        "color6": "#D3D1D6",
+        "color7": "#e1e3e6",
+        "color8": "#9d9ea1",
+        "color9": "#9AAACA",
+        "color10": "#ADB6D1",
+        "color11": "#C9BCC2",
+        "color12": "#B6C7DE",
+        "color13": "#B3C8E1",
+        "color14": "#D3D1D6",
+        "color15": "#e1e3e6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/shrimp-fried-rice.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0e16",
+        "foreground": "#e4dcdb",
+        "cursor": "#e4dcdb"
+    },
+    "colors": {
+        "color0": "#0d0e16",
+        "color1": "#9F92A2",
+        "color2": "#EDB29A",
+        "color3": "#DBABA7",
+        "color4": "#BECBB1",
+        "color5": "#DDCEA5",
+        "color6": "#E8CFAF",
+        "color7": "#e4dcdb",
+        "color8": "#9f9a99",
+        "color9": "#9F92A2",
+        "color10": "#EDB29A",
+        "color11": "#DBABA7",
+        "color12": "#BECBB1",
+        "color13": "#DDCEA5",
+        "color14": "#E8CFAF",
+        "color15": "#e4dcdb"
+    }
+}

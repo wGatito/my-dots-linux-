@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/van-chilling.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1018",
+        "foreground": "#ebcfca",
+        "cursor": "#ebcfca"
+    },
+    "colors": {
+        "color0": "#0f1018",
+        "color1": "#65667B",
+        "color2": "#71738A",
+        "color3": "#847E8F",
+        "color4": "#9D91A3",
+        "color5": "#D3ABAC",
+        "color6": "#E0A2A3",
+        "color7": "#ebcfca",
+        "color8": "#a4908d",
+        "color9": "#65667B",
+        "color10": "#71738A",
+        "color11": "#847E8F",
+        "color12": "#9D91A3",
+        "color13": "#D3ABAC",
+        "color14": "#E0A2A3",
+        "color15": "#ebcfca"
+    }
+}

@@ -1,0 +1,184 @@
+{
+  "$schema": "/etc/xdg/swaync/configSchema.json",
+  "ignore-gtk-theme": true,
+  "positionX": "right",
+  "positionY": "top",
+  "layer": "overlay",
+  "control-center-layer": "top",
+  "layer-shell": true,
+  "layer-shell-cover-screen": true,
+  "cssPriority": "user",
+  "control-center-margin-top": 10,
+  "control-center-margin-bottom": 450,
+  "control-center-margin-right": 5,
+  "control-center-margin-left": 0,
+  "notification-2fa-action": true,
+  "notification-inline-replies": false,
+  "notification-body-image-height": 100,
+  "notification-body-image-width": 200,
+  "timeout": 10,
+  "timeout-low": 5,
+  "timeout-critical": 5,
+  "fit-to-screen": true,
+  "relative-timestamps": true,
+  "control-center-width": 400,
+  "control-center-height": 1000,
+  "notification-window-width": 500,
+  "keyboard-shortcuts": true,
+  "notification-grouping": true,
+  "image-visibility": "when-available",
+  "transition-time": 200,
+  "hide-on-clear": false,
+  "hide-on-action": true,
+  "text-empty": "No Notifications :(",
+  "script-fail-notify": true,
+  "scripts": {
+    "example-script": {
+      "exec": "echo 'Do something...'",
+      "urgency": "Normal"
+    },
+    "example-action-script": {
+      "exec": "echo 'Do something actionable!'",
+      "urgency": "Normal",
+      "run-on": "action"
+    }
+  },
+  "notification-visibility": {
+    "example-name": {
+      "state": "muted",
+      "urgency": "Low",
+      "app-name": "Spotify"
+    }
+  },
+  "widgets": [
+    "dnd",
+    "buttons-grid",
+    "calendar",
+    "mpris",
+    "volume",
+    "backlight",
+    "inhibitors",
+    "title",
+    "notifications"
+  ],
+  "widget-config": {
+    "notifications": {
+      "vexpand": true
+    },
+    "inhibitors": {
+      "text": "Inhibitors",
+      "button-text": "Clear All",
+      "clear-all-button": true
+    },
+
+   "calendar": {
+     "show-day-label": true,
+     "show-date-label": true,
+     "show-heading": true,
+     "show-day-names": true,
+     "show-week-numbers": false
+     },
+
+    "title": {
+      "text": "Notifications",
+      "clear-all-button": true,
+      "button-text": "Clear All"
+    },
+    "dnd": {
+      "text": "Do Not Disturb"
+    },
+    "label": {
+      "max-lines": 5,
+      "text": "Label Text"
+    },
+      
+ "slider#brilho": {
+      "label": "  ",
+      "value": 40,
+      "min": 0,
+      "max": 100,
+      "step": 5,
+      "cmd_set": "ddcutil setvcp 10 $value",
+      "cmd_get": "ddcutil getvcp 10 | grep -oP 'current value\\s*=\\s*\\K[0-9]+'"
+    },
+
+      "mpris": {
+      "blacklist": [],
+      "autohide": false,
+      "show-album-art": "always",
+      "loop-carousel": true
+    },
+     "volume": {
+      "label": "󰕾 ",
+      "show-percents": true,
+      "show-per-app-icon": true,
+      "show-per-app": true
+    },
+    "backlight": {
+      "label": "󰃠",
+      "device": "intel_backlight",
+      "subsystem": "backlight",
+      "min": 5
+    },
+    "buttons-grid": {
+    "buttons-per-row": 5,
+    "actions": [
+        {
+          "label": "󰐥",
+          "type": "command",
+          "command": "poweroff"  
+        },
+        {
+          "label": "󰜉",
+          "type": "command",
+          "command": "reboot"
+        },
+        
+        {
+          "label": "󰚰",
+          "type": "command",
+          "command": "swaync-client -t -sw && kitty -e arch-update"
+        },
+
+        {
+          "label": "󰍁",
+          "type": "command",
+          "command": "hyprlock"
+        },
+        {
+          "label": "󰗼",
+          "type": "command",
+          "command": "killall mango"
+        },
+
+        {
+          "label": "󰖩",
+          "type": "toggle",
+          "active": true,
+	     "command": "sh -c 'if [ \"$SWAYNC_TOGGLE_STATE\" = \"true\" ]; then nmcli networking on; else nmcli networking off; fi'",
+             "update-command": "sh -c 'nmcli networking connectivity check | grep -q \"full\" && echo true || echo false'"
+        },
+        {
+          "label": "",
+          "type": "command",
+          "command": "swaync-client -t -sw && rofi -show calc"
+        },
+        {
+        "label": "",
+        "type": "command",
+        "command": "swaync-client -t -sw && hyprpicker --notify"
+        },
+        {
+          "label": "󰱨",
+          "type": "command",
+          "command": "swaync-client -t -sw && rofimoji --action copy"
+        },
+        {
+          "label": "󱉨",
+          "type": "command",
+          "command": "swaync-client -t -sw && \cliphist list | rofi -dmenu | cliphist decode | wl-copy"
+        }
+      ]
+    }
+  }
+}

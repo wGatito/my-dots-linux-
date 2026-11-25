@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/collage.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101012",
+        "foreground": "#84c3c9",
+        "cursor": "#84c3c9"
+    },
+    "colors": {
+        "color0": "#101012",
+        "color1": "#574C6D",
+        "color2": "#93385D",
+        "color3": "#12966E",
+        "color4": "#09D578",
+        "color5": "#267092",
+        "color6": "#556794",
+        "color7": "#84c3c9",
+        "color8": "#5c888c",
+        "color9": "#574C6D",
+        "color10": "#93385D",
+        "color11": "#12966E",
+        "color12": "#09D578",
+        "color13": "#267092",
+        "color14": "#556794",
+        "color15": "#84c3c9"
+    }
+}

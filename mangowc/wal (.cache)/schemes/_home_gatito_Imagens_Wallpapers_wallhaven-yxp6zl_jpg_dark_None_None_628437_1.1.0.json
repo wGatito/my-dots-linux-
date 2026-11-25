@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/wallhaven-yxp6zl.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1e2d43",
+        "foreground": "#f4e4bf",
+        "cursor": "#f4e4bf"
+    },
+    "colors": {
+        "color0": "#1e2d43",
+        "color1": "#4E73BA",
+        "color2": "#9F7C97",
+        "color3": "#6F88B3",
+        "color4": "#648BC3",
+        "color5": "#9C8795",
+        "color6": "#E59593",
+        "color7": "#f4e4bf",
+        "color8": "#aa9f85",
+        "color9": "#4E73BA",
+        "color10": "#9F7C97",
+        "color11": "#6F88B3",
+        "color12": "#648BC3",
+        "color13": "#9C8795",
+        "color14": "#E59593",
+        "color15": "#f4e4bf"
+    }
+}

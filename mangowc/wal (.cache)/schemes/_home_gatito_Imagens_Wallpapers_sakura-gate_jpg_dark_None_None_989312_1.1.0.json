@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/sakura-gate.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0f16",
+        "foreground": "#cfdde7",
+        "cursor": "#cfdde7"
+    },
+    "colors": {
+        "color0": "#0e0f16",
+        "color1": "#70758A",
+        "color2": "#8A798E",
+        "color3": "#7D839A",
+        "color4": "#8F93AC",
+        "color5": "#D7A5BB",
+        "color6": "#9EB3D2",
+        "color7": "#cfdde7",
+        "color8": "#909aa1",
+        "color9": "#70758A",
+        "color10": "#8A798E",
+        "color11": "#7D839A",
+        "color12": "#8F93AC",
+        "color13": "#D7A5BB",
+        "color14": "#9EB3D2",
+        "color15": "#cfdde7"
+    }
+}

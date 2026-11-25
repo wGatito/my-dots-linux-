@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/knight-sit.png",
+    "alpha": "100",
+    "special": {
+        "background": "#12131c",
+        "foreground": "#bfc0cc",
+        "cursor": "#bfc0cc"
+    },
+    "colors": {
+        "color0": "#12131c",
+        "color1": "#65667A",
+        "color2": "#917779",
+        "color3": "#71738A",
+        "color4": "#877B89",
+        "color5": "#7E8199",
+        "color6": "#9C92A1",
+        "color7": "#bfc0cc",
+        "color8": "#85868e",
+        "color9": "#65667A",
+        "color10": "#917779",
+        "color11": "#71738A",
+        "color12": "#877B89",
+        "color13": "#7E8199",
+        "color14": "#9C92A1",
+        "color15": "#bfc0cc"
+    }
+}

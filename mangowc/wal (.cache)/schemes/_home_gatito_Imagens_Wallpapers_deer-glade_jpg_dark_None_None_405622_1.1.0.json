@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/deer-glade.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161720",
+        "foreground": "#e2dbcb",
+        "cursor": "#e2dbcb"
+    },
+    "colors": {
+        "color0": "#161720",
+        "color1": "#73758A",
+        "color2": "#8B7B8E",
+        "color3": "#7D8298",
+        "color4": "#8D8799",
+        "color5": "#A59AA7",
+        "color6": "#D8A8A7",
+        "color7": "#e2dbcb",
+        "color8": "#9e998e",
+        "color9": "#73758A",
+        "color10": "#8B7B8E",
+        "color11": "#7D8298",
+        "color12": "#8D8799",
+        "color13": "#A59AA7",
+        "color14": "#D8A8A7",
+        "color15": "#e2dbcb"
+    }
+}

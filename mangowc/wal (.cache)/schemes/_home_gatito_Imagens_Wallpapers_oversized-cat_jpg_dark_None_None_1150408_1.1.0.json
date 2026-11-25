@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/oversized-cat.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d15",
+        "foreground": "#dbd2d9",
+        "cursor": "#dbd2d9"
+    },
+    "colors": {
+        "color0": "#0d0d15",
+        "color1": "#626578",
+        "color2": "#717589",
+        "color3": "#7F8195",
+        "color4": "#9C99AE",
+        "color5": "#D2B8BB",
+        "color6": "#AFAFC9",
+        "color7": "#dbd2d9",
+        "color8": "#999397",
+        "color9": "#626578",
+        "color10": "#717589",
+        "color11": "#7F8195",
+        "color12": "#9C99AE",
+        "color13": "#D2B8BB",
+        "color14": "#AFAFC9",
+        "color15": "#dbd2d9"
+    }
+}

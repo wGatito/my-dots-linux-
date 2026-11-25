@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/flying-boat.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101219",
+        "foreground": "#e8e1db",
+        "cursor": "#e8e1db"
+    },
+    "colors": {
+        "color0": "#101219",
+        "color1": "#707489",
+        "color2": "#7F8095",
+        "color3": "#A097AA",
+        "color4": "#D0B4B8",
+        "color5": "#D7C2BE",
+        "color6": "#DCCDC7",
+        "color7": "#e8e1db",
+        "color8": "#a29d99",
+        "color9": "#707489",
+        "color10": "#7F8095",
+        "color11": "#A097AA",
+        "color12": "#D0B4B8",
+        "color13": "#D7C2BE",
+        "color14": "#DCCDC7",
+        "color15": "#e8e1db"
+    }
+}

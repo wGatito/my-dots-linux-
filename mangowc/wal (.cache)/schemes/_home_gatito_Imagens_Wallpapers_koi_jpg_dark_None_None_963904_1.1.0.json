@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/koi.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1018",
+        "foreground": "#bfcfe1",
+        "cursor": "#bfcfe1"
+    },
+    "colors": {
+        "color0": "#0f1018",
+        "color1": "#5E6982",
+        "color2": "#70758B",
+        "color3": "#897A8C",
+        "color4": "#7B859F",
+        "color5": "#7FA2C3",
+        "color6": "#8D93AD",
+        "color7": "#bfcfe1",
+        "color8": "#85909d",
+        "color9": "#5E6982",
+        "color10": "#70758B",
+        "color11": "#897A8C",
+        "color12": "#7B859F",
+        "color13": "#7FA2C3",
+        "color14": "#8D93AD",
+        "color15": "#bfcfe1"
+    }
+}

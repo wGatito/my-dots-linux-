@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/tree.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090a11",
+        "foreground": "#c2c2d0",
+        "cursor": "#c2c2d0"
+    },
+    "colors": {
+        "color0": "#090a11",
+        "color1": "#515568",
+        "color2": "#685A6E",
+        "color3": "#5D6276",
+        "color4": "#63667B",
+        "color5": "#707288",
+        "color6": "#857F97",
+        "color7": "#c2c2d0",
+        "color8": "#878791",
+        "color9": "#515568",
+        "color10": "#685A6E",
+        "color11": "#5D6276",
+        "color12": "#63667B",
+        "color13": "#707288",
+        "color14": "#857F97",
+        "color15": "#c2c2d0"
+    }
+}

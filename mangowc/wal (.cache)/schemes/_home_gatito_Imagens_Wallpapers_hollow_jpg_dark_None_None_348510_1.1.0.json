@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/hollow.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0a12",
+        "foreground": "#bec0cd",
+        "cursor": "#bec0cd"
+    },
+    "colors": {
+        "color0": "#0a0a12",
+        "color1": "#53576A",
+        "color2": "#616579",
+        "color3": "#5E6981",
+        "color4": "#71758A",
+        "color5": "#817E94",
+        "color6": "#7D8399",
+        "color7": "#bec0cd",
+        "color8": "#85868f",
+        "color9": "#53576A",
+        "color10": "#616579",
+        "color11": "#5E6981",
+        "color12": "#71758A",
+        "color13": "#817E94",
+        "color14": "#7D8399",
+        "color15": "#bec0cd"
+    }
+}

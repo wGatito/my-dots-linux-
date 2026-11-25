@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/crane.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101119",
+        "foreground": "#bdcada",
+        "cursor": "#bdcada"
+    },
+    "colors": {
+        "color0": "#101119",
+        "color1": "#7C839C",
+        "color2": "#7A8DA7",
+        "color3": "#7EA5C2",
+        "color4": "#8693AF",
+        "color5": "#9599B0",
+        "color6": "#CCC3B9",
+        "color7": "#bdcada",
+        "color8": "#848d98",
+        "color9": "#7C839C",
+        "color10": "#7A8DA7",
+        "color11": "#7EA5C2",
+        "color12": "#8693AF",
+        "color13": "#9599B0",
+        "color14": "#CCC3B9",
+        "color15": "#bdcada"
+    }
+}

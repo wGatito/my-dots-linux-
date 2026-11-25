@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/trippy-purple.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0a11",
+        "foreground": "#cccbe1",
+        "cursor": "#cccbe1"
+    },
+    "colors": {
+        "color0": "#0a0a11",
+        "color1": "#525569",
+        "color2": "#61647A",
+        "color3": "#6F738A",
+        "color4": "#7B7DA1",
+        "color5": "#7E819B",
+        "color6": "#8F8EAC",
+        "color7": "#cccbe1",
+        "color8": "#8e8e9d",
+        "color9": "#525569",
+        "color10": "#61647A",
+        "color11": "#6F738A",
+        "color12": "#7B7DA1",
+        "color13": "#7E819B",
+        "color14": "#8F8EAC",
+        "color15": "#cccbe1"
+    }
+}

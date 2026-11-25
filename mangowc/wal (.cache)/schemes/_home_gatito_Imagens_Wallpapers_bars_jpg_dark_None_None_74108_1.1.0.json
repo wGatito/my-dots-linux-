@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/bars.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0f16",
+        "foreground": "#bed9e5",
+        "cursor": "#bed9e5"
+    },
+    "colors": {
+        "color0": "#0d0f16",
+        "color1": "#DA96A2",
+        "color2": "#EE90A8",
+        "color3": "#A3D5B2",
+        "color4": "#ACE3AA",
+        "color5": "#C4C2AD",
+        "color6": "#8FB5D3",
+        "color7": "#bed9e5",
+        "color8": "#8597a0",
+        "color9": "#DA96A2",
+        "color10": "#EE90A8",
+        "color11": "#A3D5B2",
+        "color12": "#ACE3AA",
+        "color13": "#C4C2AD",
+        "color14": "#8FB5D3",
+        "color15": "#bed9e5"
+    }
+}

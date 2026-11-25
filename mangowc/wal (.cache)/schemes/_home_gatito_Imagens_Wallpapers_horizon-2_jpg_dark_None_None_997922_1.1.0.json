@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/horizon-2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1018",
+        "foreground": "#eae1d1",
+        "cursor": "#eae1d1"
+    },
+    "colors": {
+        "color0": "#0f1018",
+        "color1": "#8B7B90",
+        "color2": "#7D839B",
+        "color3": "#8A8FA9",
+        "color4": "#AD94AB",
+        "color5": "#D99AAC",
+        "color6": "#E9ACA9",
+        "color7": "#eae1d1",
+        "color8": "#a39d92",
+        "color9": "#8B7B90",
+        "color10": "#7D839B",
+        "color11": "#8A8FA9",
+        "color12": "#AD94AB",
+        "color13": "#D99AAC",
+        "color14": "#E9ACA9",
+        "color15": "#eae1d1"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/idk-tbh.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0b12",
+        "foreground": "#e2dde4",
+        "cursor": "#e2dde4"
+    },
+    "colors": {
+        "color0": "#0b0b12",
+        "color1": "#6D7087",
+        "color2": "#88768C",
+        "color3": "#7C839B",
+        "color4": "#9093AD",
+        "color5": "#AFB0D0",
+        "color6": "#B5C5DB",
+        "color7": "#e2dde4",
+        "color8": "#9e9a9f",
+        "color9": "#6D7087",
+        "color10": "#88768C",
+        "color11": "#7C839B",
+        "color12": "#9093AD",
+        "color13": "#AFB0D0",
+        "color14": "#B5C5DB",
+        "color15": "#e2dde4"
+    }
+}

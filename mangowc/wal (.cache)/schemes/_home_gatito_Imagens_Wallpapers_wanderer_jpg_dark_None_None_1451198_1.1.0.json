@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/wanderer.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0e15",
+        "foreground": "#dbdde5",
+        "cursor": "#dbdde5"
+    },
+    "colors": {
+        "color0": "#0d0e15",
+        "color1": "#9096AE",
+        "color2": "#9DA6C3",
+        "color3": "#B0B9D5",
+        "color4": "#C5BDC1",
+        "color5": "#B9C4DC",
+        "color6": "#BBC7E1",
+        "color7": "#dbdde5",
+        "color8": "#999aa0",
+        "color9": "#9096AE",
+        "color10": "#9DA6C3",
+        "color11": "#B0B9D5",
+        "color12": "#C5BDC1",
+        "color13": "#B9C4DC",
+        "color14": "#BBC7E1",
+        "color15": "#dbdde5"
+    }
+}

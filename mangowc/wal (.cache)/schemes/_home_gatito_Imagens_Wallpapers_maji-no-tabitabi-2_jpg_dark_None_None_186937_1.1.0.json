@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/maji-no-tabitabi-2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101018",
+        "foreground": "#e8e2e2",
+        "cursor": "#e8e2e2"
+    },
+    "colors": {
+        "color0": "#101018",
+        "color1": "#CCABB8",
+        "color2": "#A0A7C6",
+        "color3": "#B1B3D1",
+        "color4": "#C9B9CE",
+        "color5": "#BCC2DF",
+        "color6": "#D2CDDB",
+        "color7": "#e8e2e2",
+        "color8": "#a29e9e",
+        "color9": "#CCABB8",
+        "color10": "#A0A7C6",
+        "color11": "#B1B3D1",
+        "color12": "#C9B9CE",
+        "color13": "#BCC2DF",
+        "color14": "#D2CDDB",
+        "color15": "#e8e2e2"
+    }
+}

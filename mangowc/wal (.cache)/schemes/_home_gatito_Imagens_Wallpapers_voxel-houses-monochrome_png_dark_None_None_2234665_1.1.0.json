@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/voxel-houses-monochrome.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0b12",
+        "foreground": "#c6c1ca",
+        "cursor": "#c6c1ca"
+    },
+    "colors": {
+        "color0": "#0b0b12",
+        "color1": "#515468",
+        "color2": "#635D6E",
+        "color3": "#5E6176",
+        "color4": "#62667B",
+        "color5": "#6C7087",
+        "color6": "#807E93",
+        "color7": "#c6c1ca",
+        "color8": "#8a878d",
+        "color9": "#515468",
+        "color10": "#635D6E",
+        "color11": "#5E6176",
+        "color12": "#62667B",
+        "color13": "#6C7087",
+        "color14": "#807E93",
+        "color15": "#c6c1ca"
+    }
+}

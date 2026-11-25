@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/grassy-well.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1e1e28",
+        "foreground": "#cbdbe8",
+        "cursor": "#cbdbe8"
+    },
+    "colors": {
+        "color0": "#1e1e28",
+        "color1": "#99ABB0",
+        "color2": "#ADD1B1",
+        "color3": "#AFE0AB",
+        "color4": "#C5C9BB",
+        "color5": "#9FB5D0",
+        "color6": "#B6CED1",
+        "color7": "#cbdbe8",
+        "color8": "#8e99a2",
+        "color9": "#99ABB0",
+        "color10": "#ADD1B1",
+        "color11": "#AFE0AB",
+        "color12": "#C5C9BB",
+        "color13": "#9FB5D0",
+        "color14": "#B6CED1",
+        "color15": "#cbdbe8"
+    }
+}

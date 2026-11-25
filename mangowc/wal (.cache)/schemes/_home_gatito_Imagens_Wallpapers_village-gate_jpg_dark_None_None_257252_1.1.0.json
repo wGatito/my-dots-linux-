@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/village-gate.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1018",
+        "foreground": "#e2dddc",
+        "cursor": "#e2dddc"
+    },
+    "colors": {
+        "color0": "#0f1018",
+        "color1": "#626579",
+        "color2": "#717589",
+        "color3": "#7F8095",
+        "color4": "#9D97A9",
+        "color5": "#CBB2B8",
+        "color6": "#CEBFC0",
+        "color7": "#e2dddc",
+        "color8": "#9e9a9a",
+        "color9": "#626579",
+        "color10": "#717589",
+        "color11": "#7F8095",
+        "color12": "#9D97A9",
+        "color13": "#CBB2B8",
+        "color14": "#CEBFC0",
+        "color15": "#e2dddc"
+    }
+}

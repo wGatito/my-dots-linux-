@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/rocket-schematics.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F101B",
+        "foreground": "#cdd0dd",
+        "cursor": "#cdd0dd"
+    },
+    "colors": {
+        "color0": "#0F101B",
+        "color1": "#545669",
+        "color2": "#636678",
+        "color3": "#72768A",
+        "color4": "#887A83",
+        "color5": "#7D8298",
+        "color6": "#9094A9",
+        "color7": "#cdd0dd",
+        "color8": "#8f919a",
+        "color9": "#545669",
+        "color10": "#636678",
+        "color11": "#72768A",
+        "color12": "#887A83",
+        "color13": "#7D8298",
+        "color14": "#9094A9",
+        "color15": "#cdd0dd"
+    }
+}

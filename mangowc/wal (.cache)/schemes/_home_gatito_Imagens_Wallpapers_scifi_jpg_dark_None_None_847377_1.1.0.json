@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/scifi.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1018",
+        "foreground": "#ced1da",
+        "cursor": "#ced1da"
+    },
+    "colors": {
+        "color0": "#0f1018",
+        "color1": "#5E6175",
+        "color2": "#64677B",
+        "color3": "#717589",
+        "color4": "#897A88",
+        "color5": "#7D8297",
+        "color6": "#9496AA",
+        "color7": "#ced1da",
+        "color8": "#909298",
+        "color9": "#5E6175",
+        "color10": "#64677B",
+        "color11": "#717589",
+        "color12": "#897A88",
+        "color13": "#7D8297",
+        "color14": "#9496AA",
+        "color15": "#ced1da"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/sword.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e1019",
+        "foreground": "#eadddf",
+        "cursor": "#eadddf"
+    },
+    "colors": {
+        "color0": "#0e1019",
+        "color1": "#CBADB8",
+        "color2": "#D9C7B2",
+        "color3": "#D3B9C7",
+        "color4": "#E2BBCA",
+        "color5": "#DAC7CE",
+        "color6": "#E7CBCF",
+        "color7": "#eadddf",
+        "color8": "#a39a9c",
+        "color9": "#CBADB8",
+        "color10": "#D9C7B2",
+        "color11": "#D3B9C7",
+        "color12": "#E2BBCA",
+        "color13": "#DAC7CE",
+        "color14": "#E7CBCF",
+        "color15": "#eadddf"
+    }
+}

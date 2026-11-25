@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/cat-vibin.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f17",
+        "foreground": "#bebfcc",
+        "cursor": "#bebfcc"
+    },
+    "colors": {
+        "color0": "#0f0f17",
+        "color1": "#515468",
+        "color2": "#5E6176",
+        "color3": "#63667B",
+        "color4": "#6F7289",
+        "color5": "#7E8199",
+        "color6": "#8D90A2",
+        "color7": "#bebfcc",
+        "color8": "#85858e",
+        "color9": "#515468",
+        "color10": "#5E6176",
+        "color11": "#63667B",
+        "color12": "#6F7289",
+        "color13": "#7E8199",
+        "color14": "#8D90A2",
+        "color15": "#bebfcc"
+    }
+}

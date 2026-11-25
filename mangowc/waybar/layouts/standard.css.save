@@ -1,0 +1,150 @@
+/* Layout: Standard */
+
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "Inter", monospace;
+    font-size: 13px;
+    min-height: 0;
+}
+
+window#waybar {
+    background: @bar_bg;
+    color: @bar_fg;
+}
+
+tooltip {
+    background-color: @bar_bg;
+    border: 1px solid @border_color;
+    border-radius: 8px;
+}
+
+tooltip label {
+    color: @bar_fg;
+    text-shadow: none;
+}
+
+/* --- Modules: Base --- */
+#custom-layout,
+#custom-colorcycle,
+#custom-tray-menu,
+#clock,
+#network,
+#custom-updater,
+#custom-menu,
+#ext-workspaces,
+#custom-notifications,
+#backlight,
+#pulseaudio,
+#cpu,
+#battery,
+#user,
+#custom-clip,
+#cava,
+#inhibitor,
+#custom-snip,
+#privacy,
+#bluetooth,
+#wireplumber.microphone,
+#memory,
+#disk,
+#hyprland-window,
+#custom-theme-switcher,
+#mpris,
+#workspaces,
+#tray,
+#custom-hyprlock,
+#power-profiles-daemon,
+#idle_inhibitor,
+#custom-notificater,
+#custom-power,
+#custom-launcher {
+    background: @module_bg;
+    color: @module_fg;
+    padding: 0px 13px;
+    margin: 4px 2px 4px 2px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+#custom-launcher {
+    color: @launcher;
+    font-weight: bold;
+}
+
+#custom-power {
+    color: @power;
+}
+
+#keyboard-state {
+    background: transparent;
+}
+
+#keyboard-state label.locked {
+    background: @special;
+    color: @module_fg; 
+    padding: 0px 12px;
+    margin: 4px 2px 4px 2px;	
+    border-radius: 8px;
+}
+
+#network.disconnected,
+#network.disabled {
+    color: @power; 
+}
+
+/* --- Hover Effects --- */
+#custom-launcher:hover,
+#custom-layout:hover,
+#custom-colorcycle:hover,
+#custom-tray-menu:hover,
+#clock:hover,
+#disk:hover,
+#mpris:hover,
+#network:hover,
+#backlight:hover,
+#tray:hover,
+#pulseaudio:hover,
+#battery:hover,
+#memory:hover,
+#custom-menu:hover,
+#wireplumber.microphone:hover,
+#custom-clip:hover,
+#custom-notifications:hover,
+#cava:hover,
+#user:hover,
+#custom-snip:hover,
+#inhibitor:hover,
+#cpu:hover,
+#privacy:hover,
+#custom-updater:hover,
+#custom-theme-switcher:hover,
+#idle_inhibitor:hover,
+#ext-workspaces:hover,
+#bluetooth:hover,
+#power-profiles-daemon:hover,
+#custom-notification:hover,
+#custom-music:hover,
+#custom-thunar:hover {
+    background: @hover_bg;
+    color: @hover_fg;
+}
+
+#custom-todo:hover,
+#custom-countdown:hover {
+    background: @special;
+    color: @special_fg;
+}
+
+#custom-power:hover {
+    background: @power;
+    color: @bar_bg;
+}
+
+#ext-workspaces button {
+    color: @module_fg;
+}
+
+#ext-workspaces button.active {
+    color: @power;
+}

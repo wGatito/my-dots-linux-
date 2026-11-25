@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/temple.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1e1f29",
+        "foreground": "#eae1df",
+        "cursor": "#eae1df"
+    },
+    "colors": {
+        "color0": "#1e1f29",
+        "color1": "#98ABCE",
+        "color2": "#ABB7D8",
+        "color3": "#D0B8CC",
+        "color4": "#B9C4DE",
+        "color5": "#B4C6E2",
+        "color6": "#D2CCD7",
+        "color7": "#eae1df",
+        "color8": "#a39d9c",
+        "color9": "#98ABCE",
+        "color10": "#ABB7D8",
+        "color11": "#D0B8CC",
+        "color12": "#B9C4DE",
+        "color13": "#B4C6E2",
+        "color14": "#D2CCD7",
+        "color15": "#eae1df"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/nature-valley-1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f17",
+        "foreground": "#c1c4cb",
+        "cursor": "#c1c4cb"
+    },
+    "colors": {
+        "color0": "#0f0f17",
+        "color1": "#5D6276",
+        "color2": "#63687B",
+        "color3": "#5E6481",
+        "color4": "#6F7489",
+        "color5": "#7D8084",
+        "color6": "#7C8497",
+        "color7": "#c1c4cb",
+        "color8": "#87898e",
+        "color9": "#5D6276",
+        "color10": "#63687B",
+        "color11": "#5E6481",
+        "color12": "#6F7489",
+        "color13": "#7D8084",
+        "color14": "#7C8497",
+        "color15": "#c1c4cb"
+    }
+}

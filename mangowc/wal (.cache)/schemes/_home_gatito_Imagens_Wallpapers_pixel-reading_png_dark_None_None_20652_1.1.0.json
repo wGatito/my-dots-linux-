@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/pixel-reading.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101018",
+        "foreground": "#e2c8c8",
+        "cursor": "#e2c8c8"
+    },
+    "colors": {
+        "color0": "#101018",
+        "color1": "#64687D",
+        "color2": "#6F7187",
+        "color3": "#897D8F",
+        "color4": "#9E91A2",
+        "color5": "#9B9AAB",
+        "color6": "#ECAE9E",
+        "color7": "#e2c8c8",
+        "color8": "#9e8c8c",
+        "color9": "#64687D",
+        "color10": "#6F7187",
+        "color11": "#897D8F",
+        "color12": "#9E91A2",
+        "color13": "#9B9AAB",
+        "color14": "#ECAE9E",
+        "color15": "#e2c8c8"
+    }
+}

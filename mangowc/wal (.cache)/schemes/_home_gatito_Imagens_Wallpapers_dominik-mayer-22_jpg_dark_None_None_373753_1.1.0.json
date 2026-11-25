@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/dominik-mayer-22.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0f17",
+        "foreground": "#ddcbca",
+        "cursor": "#ddcbca"
+    },
+    "colors": {
+        "color0": "#0e0f17",
+        "color1": "#8D6575",
+        "color2": "#757084",
+        "color3": "#95788D",
+        "color4": "#C47C91",
+        "color5": "#ED94A5",
+        "color6": "#E19DA2",
+        "color7": "#ddcbca",
+        "color8": "#9a8e8d",
+        "color9": "#8D6575",
+        "color10": "#757084",
+        "color11": "#95788D",
+        "color12": "#C47C91",
+        "color13": "#ED94A5",
+        "color14": "#E19DA2",
+        "color15": "#ddcbca"
+    }
+}

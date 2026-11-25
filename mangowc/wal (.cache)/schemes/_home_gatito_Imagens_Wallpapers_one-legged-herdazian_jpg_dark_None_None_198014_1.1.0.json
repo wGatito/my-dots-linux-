@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/one-legged-herdazian.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101119",
+        "foreground": "#e1e1e2",
+        "cursor": "#e1e1e2"
+    },
+    "colors": {
+        "color0": "#101119",
+        "color1": "#7D8298",
+        "color2": "#8E95AE",
+        "color3": "#959AB0",
+        "color4": "#9DA5C2",
+        "color5": "#A9B2CD",
+        "color6": "#BBC5D9",
+        "color7": "#e1e1e2",
+        "color8": "#9d9d9e",
+        "color9": "#7D8298",
+        "color10": "#8E95AE",
+        "color11": "#959AB0",
+        "color12": "#9DA5C2",
+        "color13": "#A9B2CD",
+        "color14": "#BBC5D9",
+        "color15": "#e1e1e2"
+    }
+}

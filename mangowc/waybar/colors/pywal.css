@@ -1,0 +1,21 @@
+/* ~/.config/waybar/colors/pywal.css */
+@import "/home/gatito/.cache/wal/waybar.css";
+
+/* Fundo principal da barra: Muito escuro e translúcido para o blur aparecer */
+@define-color bar_bg        rgba(255, 255, 255, 1);  
+@define-color bar_fg        @wal-color7;      /* Texto geral em tom claro */
+
+/* Fundo dos módulos: Um cinza bem escuro para contrastar com as letras */
+@define-color module_bg     rgba(25, 25, 25, 0.4); 
+@define-color module_fg     @wal-color7;      /* Texto claro fixado */
+
+/* Elementos de destaque e interações (Hover) */
+@define-color hover_bg      @wal-color4;      
+@define-color hover_fg      rgba(15, 15, 15, 1);          
+@define-color border_color  @wal-color1;      
+
+/* Ícones e Módulos Especiais */
+@define-color launcher      rgba(255, 255, 255, 1);      
+@define-color special       @wal-color6;      
+@define-color special_fg    @wal-color7;      
+@define-color power         @wal-color1;      

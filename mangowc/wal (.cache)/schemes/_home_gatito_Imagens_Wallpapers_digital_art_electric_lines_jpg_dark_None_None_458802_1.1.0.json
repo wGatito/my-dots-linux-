@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/digital_art_electric_lines.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#07080B",
+        "foreground": "#d2c9bf",
+        "cursor": "#d2c9bf"
+    },
+    "colors": {
+        "color0": "#07080B",
+        "color1": "#A75E57",
+        "color2": "#DC6A50",
+        "color3": "#EE9B62",
+        "color4": "#CCA873",
+        "color5": "#6F7C81",
+        "color6": "#708285",
+        "color7": "#d2c9bf",
+        "color8": "#938c85",
+        "color9": "#A75E57",
+        "color10": "#DC6A50",
+        "color11": "#EE9B62",
+        "color12": "#CCA873",
+        "color13": "#6F7C81",
+        "color14": "#708285",
+        "color15": "#d2c9bf"
+    }
+}

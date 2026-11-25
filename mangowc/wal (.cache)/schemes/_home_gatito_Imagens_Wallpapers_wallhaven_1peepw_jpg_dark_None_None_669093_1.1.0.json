@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/wallhaven_1peepw.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f10",
+        "foreground": "#ecd0df",
+        "cursor": "#ecd0df"
+    },
+    "colors": {
+        "color0": "#0f0f10",
+        "color1": "#41677A",
+        "color2": "#206495",
+        "color3": "#3279B0",
+        "color4": "#2397D2",
+        "color5": "#4C9BCA",
+        "color6": "#71C7F2",
+        "color7": "#ecd0df",
+        "color8": "#a5919c",
+        "color9": "#41677A",
+        "color10": "#206495",
+        "color11": "#3279B0",
+        "color12": "#2397D2",
+        "color13": "#4C9BCA",
+        "color14": "#71C7F2",
+        "color15": "#ecd0df"
+    }
+}

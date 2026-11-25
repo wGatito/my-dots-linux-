@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/swirly-painting.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#11121b",
+        "foreground": "#e5dadd",
+        "cursor": "#e5dadd"
+    },
+    "colors": {
+        "color0": "#11121b",
+        "color1": "#817F94",
+        "color2": "#9D8CA1",
+        "color3": "#E59BAD",
+        "color4": "#DBA0B1",
+        "color5": "#BEB3C1",
+        "color6": "#DCBAC4",
+        "color7": "#e5dadd",
+        "color8": "#a0989a",
+        "color9": "#817F94",
+        "color10": "#9D8CA1",
+        "color11": "#E59BAD",
+        "color12": "#DBA0B1",
+        "color13": "#BEB3C1",
+        "color14": "#DCBAC4",
+        "color15": "#e5dadd"
+    }
+}

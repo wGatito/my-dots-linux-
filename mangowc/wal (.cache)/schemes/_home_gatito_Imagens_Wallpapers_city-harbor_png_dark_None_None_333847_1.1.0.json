@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/city-harbor.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1b25",
+        "foreground": "#e3dad3",
+        "cursor": "#e3dad3"
+    },
+    "colors": {
+        "color0": "#1a1b25",
+        "color1": "#877A8E",
+        "color2": "#7C8390",
+        "color3": "#8F8898",
+        "color4": "#AB95A5",
+        "color5": "#A49FA9",
+        "color6": "#CCADB2",
+        "color7": "#e3dad3",
+        "color8": "#9e9893",
+        "color9": "#877A8E",
+        "color10": "#7C8390",
+        "color11": "#8F8898",
+        "color12": "#AB95A5",
+        "color13": "#A49FA9",
+        "color14": "#CCADB2",
+        "color15": "#e3dad3"
+    }
+}

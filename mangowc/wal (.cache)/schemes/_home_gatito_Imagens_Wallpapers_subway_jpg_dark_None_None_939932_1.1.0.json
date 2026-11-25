@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/subway.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#10121a",
+        "foreground": "#ddc8cc",
+        "cursor": "#ddc8cc"
+    },
+    "colors": {
+        "color0": "#10121a",
+        "color1": "#676779",
+        "color2": "#5E7082",
+        "color3": "#73768A",
+        "color4": "#827B8C",
+        "color5": "#8D7A8C",
+        "color6": "#9C94A7",
+        "color7": "#ddc8cc",
+        "color8": "#9a8c8e",
+        "color9": "#676779",
+        "color10": "#5E7082",
+        "color11": "#73768A",
+        "color12": "#827B8C",
+        "color13": "#8D7A8C",
+        "color14": "#9C94A7",
+        "color15": "#ddc8cc"
+    }
+}

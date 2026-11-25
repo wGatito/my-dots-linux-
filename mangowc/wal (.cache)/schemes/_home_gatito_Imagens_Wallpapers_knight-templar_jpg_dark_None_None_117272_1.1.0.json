@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/knight-templar.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0c12",
+        "foreground": "#edbeca",
+        "cursor": "#edbeca"
+    },
+    "colors": {
+        "color0": "#0c0c12",
+        "color1": "#515467",
+        "color2": "#626579",
+        "color3": "#727388",
+        "color4": "#8C7B90",
+        "color5": "#9D8CA2",
+        "color6": "#D38BA2",
+        "color7": "#edbeca",
+        "color8": "#a5858d",
+        "color9": "#515467",
+        "color10": "#626579",
+        "color11": "#727388",
+        "color12": "#8C7B90",
+        "color13": "#9D8CA2",
+        "color14": "#D38BA2",
+        "color15": "#edbeca"
+    }
+}

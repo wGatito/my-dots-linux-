@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/wallhaven-oxkdd9.png",
+    "alpha": "100",
+    "special": {
+        "background": "#313b47",
+        "foreground": "#ccdbe6",
+        "cursor": "#ccdbe6"
+    },
+    "colors": {
+        "color0": "#313b47",
+        "color1": "#5488B6",
+        "color2": "#6E8FAB",
+        "color3": "#699ECB",
+        "color4": "#9BA0A5",
+        "color5": "#DBAEAE",
+        "color6": "#90B5D4",
+        "color7": "#ccdbe6",
+        "color8": "#8e99a1",
+        "color9": "#5488B6",
+        "color10": "#6E8FAB",
+        "color11": "#699ECB",
+        "color12": "#9BA0A5",
+        "color13": "#DBAEAE",
+        "color14": "#90B5D4",
+        "color15": "#ccdbe6"
+    }
+}

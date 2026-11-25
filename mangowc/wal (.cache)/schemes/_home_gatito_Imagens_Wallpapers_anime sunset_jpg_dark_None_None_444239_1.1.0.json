@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/anime sunset.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#120d14",
+        "foreground": "#f1e2c7",
+        "cursor": "#f1e2c7"
+    },
+    "colors": {
+        "color0": "#120d14",
+        "color1": "#A55163",
+        "color2": "#D36955",
+        "color3": "#EC9F5D",
+        "color4": "#EEAE5B",
+        "color5": "#8E5486",
+        "color6": "#EDB48B",
+        "color7": "#f1e2c7",
+        "color8": "#a89e8b",
+        "color9": "#A55163",
+        "color10": "#D36955",
+        "color11": "#EC9F5D",
+        "color12": "#EEAE5B",
+        "color13": "#8E5486",
+        "color14": "#EDB48B",
+        "color15": "#f1e2c7"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/atlantis.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#20222c",
+        "foreground": "#cbdbe6",
+        "cursor": "#cbdbe6"
+    },
+    "colors": {
+        "color0": "#20222c",
+        "color1": "#A19BAA",
+        "color2": "#DFA8AE",
+        "color3": "#B8D1B5",
+        "color4": "#E3CCB5",
+        "color5": "#90AED4",
+        "color6": "#96B2D9",
+        "color7": "#cbdbe6",
+        "color8": "#8e99a1",
+        "color9": "#A19BAA",
+        "color10": "#DFA8AE",
+        "color11": "#B8D1B5",
+        "color12": "#E3CCB5",
+        "color13": "#90AED4",
+        "color14": "#96B2D9",
+        "color15": "#cbdbe6"
+    }
+}

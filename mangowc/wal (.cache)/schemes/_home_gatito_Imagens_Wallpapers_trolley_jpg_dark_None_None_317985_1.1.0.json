@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/trolley.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0a12",
+        "foreground": "#c6c1c5",
+        "cursor": "#c6c1c5"
+    },
+    "colors": {
+        "color0": "#0a0a12",
+        "color1": "#46495A",
+        "color2": "#505466",
+        "color3": "#5E6275",
+        "color4": "#66687A",
+        "color5": "#707185",
+        "color6": "#847787",
+        "color7": "#c6c1c5",
+        "color8": "#8a8789",
+        "color9": "#46495A",
+        "color10": "#505466",
+        "color11": "#5E6275",
+        "color12": "#66687A",
+        "color13": "#707185",
+        "color14": "#847787",
+        "color15": "#c6c1c5"
+    }
+}

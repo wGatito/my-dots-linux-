@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/gatito/Imagens/Wallpapers/cartoon-castle.png"
+let background = "#0f0f18"
+let foreground = "#e8e2dc"
+let cursor     = "#e8e2dc"
+
+" Colors
+let color0  = "#0f0f18"
+let color1  = "#7E8197"
+let color2  = "#9C9AAC"
+let color3  = "#C2B8BD"
+let color4  = "#D4D2BB"
+let color5  = "#C1BAC2"
+let color6  = "#D4D3CC"
+let color7  = "#e8e2dc"
+let color8  = "#a29e9a"
+let color9  = "#7E8197"
+let color10 = "#9C9AAC"
+let color11 = "#C2B8BD"
+let color12 = "#D4D2BB"
+let color13 = "#C1BAC2"
+let color14 = "#D4D3CC"
+let color15 = "#e8e2dc"

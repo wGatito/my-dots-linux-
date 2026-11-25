@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/call-it-a-day.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1018",
+        "foreground": "#b6bbc8",
+        "cursor": "#b6bbc8"
+    },
+    "colors": {
+        "color0": "#0f1018",
+        "color1": "#645868",
+        "color2": "#5D6276",
+        "color3": "#64687C",
+        "color4": "#6F7489",
+        "color5": "#937788",
+        "color6": "#7B829A",
+        "color7": "#b6bbc8",
+        "color8": "#7f828c",
+        "color9": "#645868",
+        "color10": "#5D6276",
+        "color11": "#64687C",
+        "color12": "#6F7489",
+        "color13": "#937788",
+        "color14": "#7B829A",
+        "color15": "#b6bbc8"
+    }
+}

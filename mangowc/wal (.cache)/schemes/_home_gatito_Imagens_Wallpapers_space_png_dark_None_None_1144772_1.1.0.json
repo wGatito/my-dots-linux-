@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/space.png",
+    "alpha": "100",
+    "special": {
+        "background": "#111119",
+        "foreground": "#e3e3e4",
+        "cursor": "#e3e3e4"
+    },
+    "colors": {
+        "color0": "#111119",
+        "color1": "#969DAF",
+        "color2": "#8E98B8",
+        "color3": "#C5BCBE",
+        "color4": "#9BAED1",
+        "color5": "#9EB9DA",
+        "color6": "#A1C7E3",
+        "color7": "#e3e3e4",
+        "color8": "#9e9e9f",
+        "color9": "#969DAF",
+        "color10": "#8E98B8",
+        "color11": "#C5BCBE",
+        "color12": "#9BAED1",
+        "color13": "#9EB9DA",
+        "color14": "#A1C7E3",
+        "color15": "#e3e3e4"
+    }
+}

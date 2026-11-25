@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/dino.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#20222c",
+        "foreground": "#ebe4dd",
+        "cursor": "#ebe4dd"
+    },
+    "colors": {
+        "color0": "#20222c",
+        "color1": "#E4AEB4",
+        "color2": "#DDCCB2",
+        "color3": "#E7CBBA",
+        "color4": "#AEAFCA",
+        "color5": "#A5DCCB",
+        "color6": "#A0D5D5",
+        "color7": "#ebe4dd",
+        "color8": "#a49f9a",
+        "color9": "#E4AEB4",
+        "color10": "#DDCCB2",
+        "color11": "#E7CBBA",
+        "color12": "#AEAFCA",
+        "color13": "#A5DCCB",
+        "color14": "#A0D5D5",
+        "color15": "#ebe4dd"
+    }
+}

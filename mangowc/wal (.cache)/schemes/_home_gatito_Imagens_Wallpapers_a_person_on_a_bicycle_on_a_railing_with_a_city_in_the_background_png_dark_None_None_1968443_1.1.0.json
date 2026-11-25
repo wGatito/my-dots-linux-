@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png",
+    "alpha": "100",
+    "special": {
+        "background": "#060119",
+        "foreground": "#e2c9e8",
+        "cursor": "#e2c9e8"
+    },
+    "colors": {
+        "color0": "#060119",
+        "color1": "#A662BB",
+        "color2": "#6387B9",
+        "color3": "#2D95D6",
+        "color4": "#508DCF",
+        "color5": "#679BDA",
+        "color6": "#9D9EDE",
+        "color7": "#e2c9e8",
+        "color8": "#9e8ca2",
+        "color9": "#A662BB",
+        "color10": "#6387B9",
+        "color11": "#2D95D6",
+        "color12": "#508DCF",
+        "color13": "#679BDA",
+        "color14": "#9D9EDE",
+        "color15": "#e2c9e8"
+    }
+}

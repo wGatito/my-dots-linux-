@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/glitch-orange-black.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E0F11",
+        "foreground": "#f6d9c3",
+        "cursor": "#f6d9c3"
+    },
+    "colors": {
+        "color0": "#0E0F11",
+        "color1": "#FEC14F",
+        "color2": "#A67888",
+        "color3": "#D29998",
+        "color4": "#FEB78D",
+        "color5": "#DBA6B1",
+        "color6": "#FDB4AF",
+        "color7": "#f6d9c3",
+        "color8": "#ac9788",
+        "color9": "#FEC14F",
+        "color10": "#A67888",
+        "color11": "#D29998",
+        "color12": "#FEB78D",
+        "color13": "#DBA6B1",
+        "color14": "#FDB4AF",
+        "color15": "#f6d9c3"
+    }
+}

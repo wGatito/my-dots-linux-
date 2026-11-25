@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/HW_WallPaper_TB01_1920x1080.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151615",
+        "foreground": "#cbdfe8",
+        "cursor": "#cbdfe8"
+    },
+    "colors": {
+        "color0": "#151615",
+        "color1": "#A86B90",
+        "color2": "#1086D6",
+        "color3": "#2EA2DD",
+        "color4": "#61ACC9",
+        "color5": "#9FA5A1",
+        "color6": "#B9C4B4",
+        "color7": "#cbdfe8",
+        "color8": "#8e9ca2",
+        "color9": "#A86B90",
+        "color10": "#1086D6",
+        "color11": "#2EA2DD",
+        "color12": "#61ACC9",
+        "color13": "#9FA5A1",
+        "color14": "#B9C4B4",
+        "color15": "#cbdfe8"
+    }
+}

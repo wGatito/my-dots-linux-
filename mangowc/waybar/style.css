@@ -1,0 +1,71 @@
+@import "colors/pywal.css";
+@import "layouts/standard.css";
+@import url("../../.cache/wal/colors-waybar.css");
+window#waybar {
+    background: alpha(@bar_bg, 0);
+}
+
+* {
+    font-family: "JetBrains Mono Nerd Font", sans-serif;
+    font-size: 13px;
+    /* Força a opacidade máxima para todos os textos e ícones */
+    opacity: 1.0; 
+}
+
+#custom-colorcycle {
+    color: @special; 
+}
+
+#custom-colorcycle:hover, #custom-tray-menu:hover {
+    background: @hover_bg;
+    color: @hover_fg;
+}
+
+tooltip {
+    background: transparent;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    text-shadow: none;
+    padding: 0;
+    margin: 0;
+}
+
+tooltip label {
+    color: transparent;
+    font-size: 0px;
+}
+
+#workspaces button {
+  color: @fg;
+  background-color: transparent;
+  margin: 4px;
+  padding: 0 5px;
+}
+
+#workspaces button.urgent {
+  color: #ff5555;
+  background-color: @bg;
+  opacity: 0.3;
+}
+
+#workspaces button.active {
+  background-color: @rd1;
+  opacity: 1;
+  color: @bg;
+}
+
+#workspaces button:not(.active):not(.empty) {
+    color: @bg;
+    opacity: 0.85;
+    }
+
+#workspaces button.empty {
+  color: @fg;
+  opacity: 0.5;
+}
+
+#workspaces button.empty.active {
+  color: @bg;
+  opacity: 1;
+}

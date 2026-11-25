@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/pizza.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1018",
+        "foreground": "#eadad0",
+        "cursor": "#eadad0"
+    },
+    "colors": {
+        "color0": "#0f1018",
+        "color1": "#727489",
+        "color2": "#877C8F",
+        "color3": "#7F8094",
+        "color4": "#A391A2",
+        "color5": "#D1AAB0",
+        "color6": "#E4ABA1",
+        "color7": "#eadad0",
+        "color8": "#a39891",
+        "color9": "#727489",
+        "color10": "#877C8F",
+        "color11": "#7F8094",
+        "color12": "#A391A2",
+        "color13": "#D1AAB0",
+        "color14": "#E4ABA1",
+        "color15": "#eadad0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/jupiter.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f18",
+        "foreground": "#c4cbdb",
+        "cursor": "#c4cbdb"
+    },
+    "colors": {
+        "color0": "#0f0f18",
+        "color1": "#64677D",
+        "color2": "#6F7086",
+        "color3": "#837688",
+        "color4": "#DF9BA4",
+        "color5": "#EB9CA7",
+        "color6": "#ECCCB0",
+        "color7": "#c4cbdb",
+        "color8": "#898e99",
+        "color9": "#64677D",
+        "color10": "#6F7086",
+        "color11": "#837688",
+        "color12": "#DF9BA4",
+        "color13": "#EB9CA7",
+        "color14": "#ECCCB0",
+        "color15": "#c4cbdb"
+    }
+}

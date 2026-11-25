@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/kusuriya.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0e16",
+        "foreground": "#ebe4e1",
+        "cursor": "#ebe4e1"
+    },
+    "colors": {
+        "color0": "#0e0e16",
+        "color1": "#60647A",
+        "color2": "#70758D",
+        "color3": "#7A86A2",
+        "color4": "#9DA4BE",
+        "color5": "#ABB2CF",
+        "color6": "#D3D2DA",
+        "color7": "#ebe4e1",
+        "color8": "#a49f9d",
+        "color9": "#60647A",
+        "color10": "#70758D",
+        "color11": "#7A86A2",
+        "color12": "#9DA4BE",
+        "color13": "#ABB2CF",
+        "color14": "#D3D2DA",
+        "color15": "#ebe4e1"
+    }
+}

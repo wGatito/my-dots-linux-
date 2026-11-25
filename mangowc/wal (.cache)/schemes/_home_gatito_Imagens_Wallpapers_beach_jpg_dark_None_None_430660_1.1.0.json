@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/beach.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#3a3d48",
+        "foreground": "#e9e4e1",
+        "cursor": "#e9e4e1"
+    },
+    "colors": {
+        "color0": "#3a3d48",
+        "color1": "#C4BACA",
+        "color2": "#9DC3DE",
+        "color3": "#B6C9DD",
+        "color4": "#97C8E5",
+        "color5": "#AECCE3",
+        "color6": "#D0D2D9",
+        "color7": "#e9e4e1",
+        "color8": "#a39f9d",
+        "color9": "#C4BACA",
+        "color10": "#9DC3DE",
+        "color11": "#B6C9DD",
+        "color12": "#97C8E5",
+        "color13": "#AECCE3",
+        "color14": "#D0D2D9",
+        "color15": "#e9e4e1"
+    }
+}

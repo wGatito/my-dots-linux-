@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/Adriann_back_of_a_postcard_template_watercolor_Disco_themed_827aafc7-61f6-4117-bad0-d74f97a20ee4.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c111e",
+        "foreground": "#ddd7d6",
+        "cursor": "#ddd7d6"
+    },
+    "colors": {
+        "color0": "#0c111e",
+        "color1": "#355C89",
+        "color2": "#596E90",
+        "color3": "#8D7786",
+        "color4": "#6B8BA9",
+        "color5": "#9E9AA8",
+        "color6": "#D1B0AB",
+        "color7": "#ddd7d6",
+        "color8": "#9a9695",
+        "color9": "#355C89",
+        "color10": "#596E90",
+        "color11": "#8D7786",
+        "color12": "#6B8BA9",
+        "color13": "#9E9AA8",
+        "color14": "#D1B0AB",
+        "color15": "#ddd7d6"
+    }
+}

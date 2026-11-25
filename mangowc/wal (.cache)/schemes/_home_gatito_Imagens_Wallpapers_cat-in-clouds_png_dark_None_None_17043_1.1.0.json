@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/cat-in-clouds.png",
+    "alpha": "100",
+    "special": {
+        "background": "#181822",
+        "foreground": "#e5e4e2",
+        "cursor": "#e5e4e2"
+    },
+    "colors": {
+        "color0": "#181822",
+        "color1": "#D1DBB3",
+        "color2": "#8FAFD7",
+        "color3": "#A3BDD6",
+        "color4": "#9EBFE5",
+        "color5": "#ACC8DC",
+        "color6": "#ABD1E1",
+        "color7": "#e5e4e2",
+        "color8": "#a09f9e",
+        "color9": "#D1DBB3",
+        "color10": "#8FAFD7",
+        "color11": "#A3BDD6",
+        "color12": "#9EBFE5",
+        "color13": "#ACC8DC",
+        "color14": "#ABD1E1",
+        "color15": "#e5e4e2"
+    }
+}

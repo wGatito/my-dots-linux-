@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/fishing.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0f16",
+        "foreground": "#e6ded1",
+        "cursor": "#e6ded1"
+    },
+    "colors": {
+        "color0": "#0e0f16",
+        "color1": "#5E6175",
+        "color2": "#64677B",
+        "color3": "#717589",
+        "color4": "#837D8E",
+        "color5": "#7D8197",
+        "color6": "#9895A6",
+        "color7": "#e6ded1",
+        "color8": "#a19b92",
+        "color9": "#5E6175",
+        "color10": "#64677B",
+        "color11": "#717589",
+        "color12": "#837D8E",
+        "color13": "#7D8197",
+        "color14": "#9895A6",
+        "color15": "#e6ded1"
+    }
+}

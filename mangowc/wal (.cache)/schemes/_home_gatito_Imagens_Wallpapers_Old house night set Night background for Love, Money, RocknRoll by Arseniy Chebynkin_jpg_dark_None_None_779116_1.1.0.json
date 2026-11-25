@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/Old house night set Night background for Love, Money, RocknRoll by Arseniy Chebynkin.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E1928",
+        "foreground": "#80c4da",
+        "cursor": "#80c4da"
+    },
+    "colors": {
+        "color0": "#0E1928",
+        "color1": "#555F5C",
+        "color2": "#106896",
+        "color3": "#497593",
+        "color4": "#1F8E9C",
+        "color5": "#118DB3",
+        "color6": "#59A4AA",
+        "color7": "#80c4da",
+        "color8": "#598998",
+        "color9": "#555F5C",
+        "color10": "#106896",
+        "color11": "#497593",
+        "color12": "#1F8E9C",
+        "color13": "#118DB3",
+        "color14": "#59A4AA",
+        "color15": "#80c4da"
+    }
+}

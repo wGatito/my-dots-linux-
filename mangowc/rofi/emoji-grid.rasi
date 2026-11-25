@@ -1,0 +1,32 @@
+configuration {
+    modi: "emoji";
+    show-icons: false;
+    hidden-descriptions = True
+}
+
+@import "config.rasi" /* Importa suas cores padrão do rofi */
+
+window {
+    width: 450px;
+    height: 400px;
+}
+
+listview {
+    columns: 8;        /* Quantidade de colunas de emojis */
+    lines: 6;          /* Linhas visíveis */
+    cycle: true;
+    dynamic: true;
+    layout: vertical;
+    fixed-columns: true;
+}
+
+element {
+    orientation: vertical;
+    padding: 12px;
+}
+
+element-text {
+    horizontal-align: 0.5;
+    vertical-align: 0.5;
+    font: "Noto Color Emoji 24"; /* Aumenta o tamanho do emoji na grade */
+}

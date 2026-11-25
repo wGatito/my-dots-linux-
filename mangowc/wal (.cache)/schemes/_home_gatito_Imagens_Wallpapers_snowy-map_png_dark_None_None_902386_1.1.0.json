@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/snowy-map.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101018",
+        "foreground": "#cdcfdc",
+        "cursor": "#cdcfdc"
+    },
+    "colors": {
+        "color0": "#101018",
+        "color1": "#63667C",
+        "color2": "#6E7289",
+        "color3": "#7D8299",
+        "color4": "#81859E",
+        "color5": "#8C90A9",
+        "color6": "#A0A3BD",
+        "color7": "#cdcfdc",
+        "color8": "#8f909a",
+        "color9": "#63667C",
+        "color10": "#6E7289",
+        "color11": "#7D8299",
+        "color12": "#81859E",
+        "color13": "#8C90A9",
+        "color14": "#A0A3BD",
+        "color15": "#cdcfdc"
+    }
+}

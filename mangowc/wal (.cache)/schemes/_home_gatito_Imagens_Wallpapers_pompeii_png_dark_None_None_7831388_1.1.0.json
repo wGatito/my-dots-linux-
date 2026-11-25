@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/pompeii.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0b12",
+        "foreground": "#ecc9c6",
+        "cursor": "#ecc9c6"
+    },
+    "colors": {
+        "color0": "#0b0b12",
+        "color1": "#525469",
+        "color2": "#5F6075",
+        "color3": "#65667B",
+        "color4": "#896F7B",
+        "color5": "#726F85",
+        "color6": "#8D798E",
+        "color7": "#ecc9c6",
+        "color8": "#a58c8a",
+        "color9": "#525469",
+        "color10": "#5F6075",
+        "color11": "#65667B",
+        "color12": "#896F7B",
+        "color13": "#726F85",
+        "color14": "#8D798E",
+        "color15": "#ecc9c6"
+    }
+}

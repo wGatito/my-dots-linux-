@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/Akihabara south exit night.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#13151c",
+        "foreground": "#cdd6de",
+        "cursor": "#cdd6de"
+    },
+    "colors": {
+        "color0": "#13151c",
+        "color1": "#586D91",
+        "color2": "#4354AB",
+        "color3": "#8D6C83",
+        "color4": "#6A8BA5",
+        "color5": "#5FA2D0",
+        "color6": "#A0A0A0",
+        "color7": "#cdd6de",
+        "color8": "#8f959b",
+        "color9": "#586D91",
+        "color10": "#4354AB",
+        "color11": "#8D6C83",
+        "color12": "#6A8BA5",
+        "color13": "#5FA2D0",
+        "color14": "#A0A0A0",
+        "color15": "#cdd6de"
+    }
+}

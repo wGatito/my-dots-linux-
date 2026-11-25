@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/orange.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0e15",
+        "foreground": "#e6ddd3",
+        "cursor": "#e6ddd3"
+    },
+    "colors": {
+        "color0": "#0d0e15",
+        "color1": "#857E92",
+        "color2": "#9C90A5",
+        "color3": "#EBAB9B",
+        "color4": "#D697A3",
+        "color5": "#E49CA2",
+        "color6": "#E2A3A1",
+        "color7": "#e6ddd3",
+        "color8": "#a19a93",
+        "color9": "#857E92",
+        "color10": "#9C90A5",
+        "color11": "#EBAB9B",
+        "color12": "#D697A3",
+        "color13": "#E49CA2",
+        "color14": "#E2A3A1",
+        "color15": "#e6ddd3"
+    }
+}

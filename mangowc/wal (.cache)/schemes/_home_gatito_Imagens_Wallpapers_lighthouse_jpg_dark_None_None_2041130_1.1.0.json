@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/lighthouse.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#14151e",
+        "foreground": "#ccd1df",
+        "cursor": "#ccd1df"
+    },
+    "colors": {
+        "color0": "#14151e",
+        "color1": "#70758A",
+        "color2": "#827D92",
+        "color3": "#7D8399",
+        "color4": "#8C93AD",
+        "color5": "#9599B0",
+        "color6": "#9DA7C4",
+        "color7": "#ccd1df",
+        "color8": "#8e929c",
+        "color9": "#70758A",
+        "color10": "#827D92",
+        "color11": "#7D8399",
+        "color12": "#8C93AD",
+        "color13": "#9599B0",
+        "color14": "#9DA7C4",
+        "color15": "#ccd1df"
+    }
+}

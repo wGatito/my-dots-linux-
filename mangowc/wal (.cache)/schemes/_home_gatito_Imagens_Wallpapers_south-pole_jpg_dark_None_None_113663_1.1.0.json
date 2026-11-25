@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/south-pole.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0f16",
+        "foreground": "#c2c2c9",
+        "cursor": "#c2c2c9"
+    },
+    "colors": {
+        "color0": "#0e0f16",
+        "color1": "#5D6276",
+        "color2": "#62677B",
+        "color3": "#6B7084",
+        "color4": "#807E8C",
+        "color5": "#7E8294",
+        "color6": "#8C8C99",
+        "color7": "#c2c2c9",
+        "color8": "#87878c",
+        "color9": "#5D6276",
+        "color10": "#62677B",
+        "color11": "#6B7084",
+        "color12": "#807E8C",
+        "color13": "#7E8294",
+        "color14": "#8C8C99",
+        "color15": "#c2c2c9"
+    }
+}

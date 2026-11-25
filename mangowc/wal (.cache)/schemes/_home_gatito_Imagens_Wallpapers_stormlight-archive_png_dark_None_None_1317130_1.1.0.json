@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/stormlight-archive.png",
+    "alpha": "100",
+    "special": {
+        "background": "#11111a",
+        "foreground": "#ece4de",
+        "cursor": "#ece4de"
+    },
+    "colors": {
+        "color0": "#11111a",
+        "color1": "#7F8091",
+        "color2": "#A09BA4",
+        "color3": "#C6BABB",
+        "color4": "#DDC5BE",
+        "color5": "#E0C7BF",
+        "color6": "#DACFCC",
+        "color7": "#ece4de",
+        "color8": "#a59f9b",
+        "color9": "#7F8091",
+        "color10": "#A09BA4",
+        "color11": "#C6BABB",
+        "color12": "#DDC5BE",
+        "color13": "#E0C7BF",
+        "color14": "#DACFCC",
+        "color15": "#ece4de"
+    }
+}

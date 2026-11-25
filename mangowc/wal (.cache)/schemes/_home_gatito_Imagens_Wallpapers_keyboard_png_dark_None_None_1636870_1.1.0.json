@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/keyboard.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101018",
+        "foreground": "#bbbecc",
+        "cursor": "#bbbecc"
+    },
+    "colors": {
+        "color0": "#101018",
+        "color1": "#5E6176",
+        "color2": "#63667C",
+        "color3": "#5F6880",
+        "color4": "#6F738A",
+        "color5": "#8F7A90",
+        "color6": "#7C839C",
+        "color7": "#bbbecc",
+        "color8": "#82858e",
+        "color9": "#5E6176",
+        "color10": "#63667C",
+        "color11": "#5F6880",
+        "color12": "#6F738A",
+        "color13": "#8F7A90",
+        "color14": "#7C839C",
+        "color15": "#bbbecc"
+    }
+}

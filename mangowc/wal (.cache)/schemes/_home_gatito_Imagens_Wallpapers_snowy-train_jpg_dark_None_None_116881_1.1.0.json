@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/snowy-train.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#20212b",
+        "foreground": "#cedce7",
+        "cursor": "#cedce7"
+    },
+    "colors": {
+        "color0": "#20212b",
+        "color1": "#8D93AF",
+        "color2": "#9295AD",
+        "color3": "#9CA6C6",
+        "color4": "#AEAECB",
+        "color5": "#C8B8CB",
+        "color6": "#B9D0DE",
+        "color7": "#cedce7",
+        "color8": "#909aa1",
+        "color9": "#8D93AF",
+        "color10": "#9295AD",
+        "color11": "#9CA6C6",
+        "color12": "#AEAECB",
+        "color13": "#C8B8CB",
+        "color14": "#B9D0DE",
+        "color15": "#cedce7"
+    }
+}

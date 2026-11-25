@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/clouds-5.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101119",
+        "foreground": "#c5ccdc",
+        "cursor": "#c5ccdc"
+    },
+    "colors": {
+        "color0": "#101119",
+        "color1": "#63687C",
+        "color2": "#70758A",
+        "color3": "#7C8298",
+        "color4": "#7F86A0",
+        "color5": "#8991A9",
+        "color6": "#8A93AD",
+        "color7": "#c5ccdc",
+        "color8": "#898e9a",
+        "color9": "#63687C",
+        "color10": "#70758A",
+        "color11": "#7C8298",
+        "color12": "#7F86A0",
+        "color13": "#8991A9",
+        "color14": "#8A93AD",
+        "color15": "#c5ccdc"
+    }
+}

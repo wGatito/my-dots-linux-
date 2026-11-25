@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/soft-rose.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1018",
+        "foreground": "#d9dce4",
+        "cursor": "#d9dce4"
+    },
+    "colors": {
+        "color0": "#0f1018",
+        "color1": "#7B869D",
+        "color2": "#A58EA5",
+        "color3": "#D595AC",
+        "color4": "#A1ADCF",
+        "color5": "#B2B2D2",
+        "color6": "#BDBBD5",
+        "color7": "#d9dce4",
+        "color8": "#979a9f",
+        "color9": "#7B869D",
+        "color10": "#A58EA5",
+        "color11": "#D595AC",
+        "color12": "#A1ADCF",
+        "color13": "#B2B2D2",
+        "color14": "#BDBBD5",
+        "color15": "#d9dce4"
+    }
+}

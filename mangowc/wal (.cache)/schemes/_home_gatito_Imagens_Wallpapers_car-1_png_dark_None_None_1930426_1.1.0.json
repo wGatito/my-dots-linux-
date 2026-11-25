@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/car-1.png",
+    "alpha": "100",
+    "special": {
+        "background": "#12121b",
+        "foreground": "#ebe2de",
+        "cursor": "#ebe2de"
+    },
+    "colors": {
+        "color0": "#12121b",
+        "color1": "#E49FAE",
+        "color2": "#EAC9AD",
+        "color3": "#A1B4D5",
+        "color4": "#CFB2C9",
+        "color5": "#B2C6DF",
+        "color6": "#D1CDD7",
+        "color7": "#ebe2de",
+        "color8": "#a49e9b",
+        "color9": "#E49FAE",
+        "color10": "#EAC9AD",
+        "color11": "#A1B4D5",
+        "color12": "#CFB2C9",
+        "color13": "#B2C6DF",
+        "color14": "#D1CDD7",
+        "color15": "#ebe2de"
+    }
+}

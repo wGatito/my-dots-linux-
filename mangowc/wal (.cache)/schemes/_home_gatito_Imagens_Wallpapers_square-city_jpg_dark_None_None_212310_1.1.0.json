@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/square-city.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#11121a",
+        "foreground": "#e9d3d9",
+        "cursor": "#e9d3d9"
+    },
+    "colors": {
+        "color0": "#11121a",
+        "color1": "#64667B",
+        "color2": "#727388",
+        "color3": "#887C92",
+        "color4": "#A8A5B1",
+        "color5": "#DC9CAD",
+        "color6": "#D5B5D0",
+        "color7": "#e9d3d9",
+        "color8": "#a39397",
+        "color9": "#64667B",
+        "color10": "#727388",
+        "color11": "#887C92",
+        "color12": "#A8A5B1",
+        "color13": "#DC9CAD",
+        "color14": "#D5B5D0",
+        "color15": "#e9d3d9"
+    }
+}

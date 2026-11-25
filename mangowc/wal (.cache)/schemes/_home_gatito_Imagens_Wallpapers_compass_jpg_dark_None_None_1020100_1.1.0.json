@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/compass.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0f16",
+        "foreground": "#e1dfe1",
+        "cursor": "#e1dfe1"
+    },
+    "colors": {
+        "color0": "#0d0f16",
+        "color1": "#71758A",
+        "color2": "#7E8297",
+        "color3": "#9595AC",
+        "color4": "#AAB3CD",
+        "color5": "#C9B4C6",
+        "color6": "#B7C7DA",
+        "color7": "#e1dfe1",
+        "color8": "#9d9c9d",
+        "color9": "#71758A",
+        "color10": "#7E8297",
+        "color11": "#9595AC",
+        "color12": "#AAB3CD",
+        "color13": "#C9B4C6",
+        "color14": "#B7C7DA",
+        "color15": "#e1dfe1"
+    }
+}

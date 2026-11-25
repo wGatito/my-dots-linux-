@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/a_group_of_space_ships_in_the_sky.png",
+    "alpha": "100",
+    "special": {
+        "background": "#102927",
+        "foreground": "#edeec5",
+        "cursor": "#edeec5"
+    },
+    "colors": {
+        "color0": "#102927",
+        "color1": "#007C81",
+        "color2": "#29A289",
+        "color3": "#58B589",
+        "color4": "#77C289",
+        "color5": "#96BA93",
+        "color6": "#95CD88",
+        "color7": "#edeec5",
+        "color8": "#a5a689",
+        "color9": "#007C81",
+        "color10": "#29A289",
+        "color11": "#58B589",
+        "color12": "#77C289",
+        "color13": "#96BA93",
+        "color14": "#95CD88",
+        "color15": "#edeec5"
+    }
+}

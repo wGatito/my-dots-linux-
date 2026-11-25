@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/samurai.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#22232d",
+        "foreground": "#cddadf",
+        "cursor": "#cddadf"
+    },
+    "colors": {
+        "color0": "#22232d",
+        "color1": "#C8BAAC",
+        "color2": "#DFC89F",
+        "color3": "#D3C6A7",
+        "color4": "#E4D7BB",
+        "color5": "#98B4CD",
+        "color6": "#9EC0D4",
+        "color7": "#cddadf",
+        "color8": "#8f989c",
+        "color9": "#C8BAAC",
+        "color10": "#DFC89F",
+        "color11": "#D3C6A7",
+        "color12": "#E4D7BB",
+        "color13": "#98B4CD",
+        "color14": "#9EC0D4",
+        "color15": "#cddadf"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/lit-up-sky.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0b12",
+        "foreground": "#e6c8cf",
+        "cursor": "#e6c8cf"
+    },
+    "colors": {
+        "color0": "#0b0b12",
+        "color1": "#5E6D82",
+        "color2": "#717289",
+        "color3": "#7F7A90",
+        "color4": "#8C7B91",
+        "color5": "#A28BA1",
+        "color6": "#EB96AA",
+        "color7": "#e6c8cf",
+        "color8": "#a18c90",
+        "color9": "#5E6D82",
+        "color10": "#717289",
+        "color11": "#7F7A90",
+        "color12": "#8C7B91",
+        "color13": "#A28BA1",
+        "color14": "#EB96AA",
+        "color15": "#e6c8cf"
+    }
+}

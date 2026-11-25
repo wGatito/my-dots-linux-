@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/ship-2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101018",
+        "foreground": "#e3d1da",
+        "cursor": "#e3d1da"
+    },
+    "colors": {
+        "color0": "#101018",
+        "color1": "#867C93",
+        "color2": "#7E819A",
+        "color3": "#908FA9",
+        "color4": "#A394AF",
+        "color5": "#D2A4BB",
+        "color6": "#B8A5C3",
+        "color7": "#e3d1da",
+        "color8": "#9e9298",
+        "color9": "#867C93",
+        "color10": "#7E819A",
+        "color11": "#908FA9",
+        "color12": "#A394AF",
+        "color13": "#D2A4BB",
+        "color14": "#B8A5C3",
+        "color15": "#e3d1da"
+    }
+}

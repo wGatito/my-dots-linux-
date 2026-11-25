@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/wallhaven-rrll6m.png",
+    "alpha": "100",
+    "special": {
+        "background": "#070420",
+        "foreground": "#e1a7c1",
+        "cursor": "#e1a7c1"
+    },
+    "colors": {
+        "color0": "#070420",
+        "color1": "#F7A569",
+        "color2": "#603985",
+        "color3": "#365FA1",
+        "color4": "#5961A2",
+        "color5": "#A4299A",
+        "color6": "#A260A0",
+        "color7": "#e1a7c1",
+        "color8": "#9d7487",
+        "color9": "#F7A569",
+        "color10": "#603985",
+        "color11": "#365FA1",
+        "color12": "#5961A2",
+        "color13": "#A4299A",
+        "color14": "#A260A0",
+        "color15": "#e1a7c1"
+    }
+}

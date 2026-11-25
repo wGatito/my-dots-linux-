@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/gingerbread-house.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#11121a",
+        "foreground": "#e9ddcf",
+        "cursor": "#e9ddcf"
+    },
+    "colors": {
+        "color0": "#11121a",
+        "color1": "#727489",
+        "color2": "#887B90",
+        "color3": "#7E8196",
+        "color4": "#9E91A3",
+        "color5": "#DCAAA4",
+        "color6": "#E6B5A6",
+        "color7": "#e9ddcf",
+        "color8": "#a39a90",
+        "color9": "#727489",
+        "color10": "#887B90",
+        "color11": "#7E8196",
+        "color12": "#9E91A3",
+        "color13": "#DCAAA4",
+        "color14": "#E6B5A6",
+        "color15": "#e9ddcf"
+    }
+}

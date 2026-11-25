@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gatito/Imagens/Wallpapers/mountain-range.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0e15",
+        "foreground": "#ebc3ca",
+        "cursor": "#ebc3ca"
+    },
+    "colors": {
+        "color0": "#0d0e15",
+        "color1": "#707389",
+        "color2": "#8F7A8E",
+        "color3": "#807A90",
+        "color4": "#C37E91",
+        "color5": "#A9879B",
+        "color6": "#E39EA0",
+        "color7": "#ebc3ca",
+        "color8": "#a4888d",
+        "color9": "#707389",
+        "color10": "#8F7A8E",
+        "color11": "#807A90",
+        "color12": "#C37E91",
+        "color13": "#A9879B",
+        "color14": "#E39EA0",
+        "color15": "#ebc3ca"
+    }
+}
