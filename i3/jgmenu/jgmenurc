@@ -1,0 +1,13 @@
+menu_border = 0
+color_menu_bg = #1c172e 90
+color_norm_fg = #f4e8f0 80
+color_title_bg = #303030 100
+color_title_border = #303030 100
+color_title_fg = white 100
+sep_markup = 
+sep_halign = center
+color_sel_bg = #6b5b9e 100
+color_sel_border = #e88c8c 60
+color_sel_fg = white 100
+sub_spacing = 0
+position_mode = pointer
